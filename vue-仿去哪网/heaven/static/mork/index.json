@@ -1,0 +1,174 @@
+{
+  "ref": true,
+  "data": {
+    "imgList":[
+      {
+        "id":"001",
+        "img":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/158387fe5376294f3776d01358d6b73b.png",
+        "keywords":"景点门票"
+      }, {
+        "id":"002",
+        "img":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/69e8b07cb2d438c5530aebd4c8e3abd3.png",
+        "keywords":"景点门票"
+      }, {
+        "id":"003",
+        "img":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/b7a5e6b1774eda4fc9e32588f1d00c94.png",
+        "keywords":"踏青赏花"
+      }, {
+        "id":"004",
+        "img":"https://imgs.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "keywords":"动植物园"
+      }, {
+        "id":"005",
+        "img":"https://imgs.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png",
+        "keywords":"珠江夜游"
+      }, {
+        "id":"006",
+        "img":"https://imgs.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "keywords":"城市观光"
+      },{
+        "id":"007",
+        "img":"https://imgs.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+        "keywords":"主题乐园"
+      },{
+        "id":"008",
+        "img":"https://imgs.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+        "keywords":"泡温泉"
+      },{
+        "id":"009",
+        "img":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "keywords":"自然风光"
+      },{
+        "id":"010",
+        "img":"https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/59bc59a3c38261e9a3f2f991a9ce0d21.png",
+        "keywords":"广州必游"
+    }],
+    "favList": [
+      {
+        "id": "001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/2008/6d/6da8a20b21da1340a3.water.jpg_200x200_a8ccf617.jpg",
+        "score": 5,
+        "comment": "145284",
+        "title": "长隆野生动物世界",
+        "price": "207",
+        "desc": "熊猫三胞胎与您共享欢乐时光"
+      }, {
+        "id": "002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/2008/ca/ca82c6666e1b269a3.water.jpg_200x200_4eac3547.jpg",
+        "score": 5,
+        "comment": "73288",
+        "title": "长隆欢乐世界",
+        "price": "172",
+        "desc": "爱挑战的你怎能错过垂直过山车"
+      }, {
+        "id": "003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/2008/de/de0775c07108df3a3.water.jpg_200x200_f9a82915.jpg",
+        "score": 5,
+        "comment": "64120",
+        "title": "广州长隆旅游度假区",
+        "price": "72",
+        "desc": "《奔跑吧兄弟》取景地"
+      },
+      {
+        "id": "004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/20/208ed6bc971a41cf90.img.jpg_200x200_50c7ca89.jpg",
+        "score": 3,
+        "comment": "6940",
+        "title": "宝墨园",
+        "price": "46",
+        "desc": "华夏文化浓缩地之一"
+      },
+      {
+        "id": "005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/2006/d0/d0425f0f13f14997a3.water.jpg_200x200_d13e6c21.jpg",
+        "score": 5,
+        "comment": "45021",
+        "title": "长隆国际大马戏剧院",
+        "price": "242",
+        "desc": "跟着大马戏团一起party~"
+      },
+      {
+        "id": "006",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201309/06/a03726324b885c8bc8d65eac.jpg_200x200_109f2c42.jpg",
+        "score": 4.7,
+        "comment": "29391",
+        "title": "广州塔",
+        "price": "105",
+        "desc": "扭动600米高的小蛮腰~"
+      },
+      {
+        "id": "007",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_200x200_ff903759.jpg",
+        "score": 4,
+        "comment": "19370",
+        "title": "珠江夜游",
+        "price": "207",
+        "desc": "感受羊城夜景的美与魅"
+      },
+      {
+        "id": "008",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1907/90/903428cd6de6a2c1a3.img.jpg_200x200_72b53792.jpg",
+        "score": 3.1,
+        "comment": "4541",
+        "title": "广州融创雪世界",
+        "price": "148",
+        "desc": ""
+      },
+      {
+        "id": "009",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1603/ee/ee3013caaa28ae7490.water.jpg_200x200_f052dfc4.jpg",
+        "score": 4.4,
+        "comment": "13846",
+        "title": "增城白水寨风景名胜区",
+        "price": "52",
+        "desc": "奇趣水谷与天南第一梯"
+      },
+      {
+        "id": "010",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/201212/31/309a88f591369b6893835fbb.png_200x200_d1b48ee6.png",
+        "score": 5,
+        "comment": "20561",
+        "title": "广东科学中心",
+        "price": "45.6",
+        "desc": ""
+      },
+      {
+        "id": "011",
+        "imgUrl": "https://imgs.qunarzz.com/sight/p0/1912/2b/2bf03bc29922a0e6a3.img.jpg_200x200_ce8fa246.jpg",
+        "score": 5,
+        "comment": "109",
+        "title": "广州融创体育世界",
+        "price": "80",
+        "desc": ""
+      }
+    ],
+    "weekList": [
+      {
+        "id": "001",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      },{
+        "id": "002",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      },{
+        "id": "003",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+        "title": "广州必打卡",
+        "desc": "感受现代与传统相融合的广州"
+      },{
+        "id": "004",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+        "title": "阳江温泉知多少",
+        "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+      },{
+        "id": "005",
+        "imgUrl": "https://imgs.qunarzz.com/sight/source/1812/47/cbdc44f461db0d.jpg_r_640x214_aab1da76.jpg",
+        "title": "珠江夜游",
+        "desc": "绚烂的霓虹将珠江照亮，跳上一艘游船，沉浸在这醉人的夜色中..."
+      }
+    ]
+  }
+}

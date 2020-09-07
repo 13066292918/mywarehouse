@@ -1,0 +1,5835 @@
+{
+  "data": {
+    "cities": [
+      {
+        "initial": "a",
+        "list": [
+          {
+            "code": "0997",
+            "name": "阿克苏",
+            "pinyin": "akesu",
+            "label": "akesu0997"
+          },
+          {
+            "code": "0837",
+            "name": "阿坝",
+            "pinyin": "aba",
+            "label": "aba0837"
+          },
+          {
+            "code": "0483",
+            "name": "阿拉善盟",
+            "pinyin": "alashanmeng",
+            "label": "alashanmeng0483"
+          },
+          {
+            "code": "0906",
+            "name": "阿勒泰",
+            "pinyin": "aletai",
+            "label": "aletai0906"
+          },
+          {
+            "code": "0897",
+            "name": "阿里",
+            "pinyin": "ali",
+            "label": "ali0897"
+          },
+          {
+            "code": "0915",
+            "name": "安康",
+            "pinyin": "ankang",
+            "label": "ankang0915"
+          },
+          {
+            "code": "0556",
+            "name": "安庆",
+            "pinyin": "anqing",
+            "label": "anqing0556"
+          },
+          {
+            "code": "0412",
+            "name": "鞍山",
+            "pinyin": "anshan",
+            "label": "anshan0412"
+          },
+          {
+            "code": "0853",
+            "name": "安顺",
+            "pinyin": "anshun",
+            "label": "anshun0853"
+          },
+          {
+            "code": "0372",
+            "name": "安阳",
+            "pinyin": "anyang",
+            "label": "anyang0372"
+          },
+          {
+            "code": "0451",
+            "name": "阿城",
+            "pinyin": "acheng",
+            "label": "acheng0451"
+          },
+          {
+            "code": "0796",
+            "name": "安福",
+            "pinyin": "anfu",
+            "label": "anfu0796"
+          },
+          {
+            "code": "0572",
+            "name": "安吉",
+            "pinyin": "anji",
+            "label": "anji0572"
+          },
+          {
+            "code": "0871",
+            "name": "安宁",
+            "pinyin": "anning",
+            "label": "anning0871"
+          },
+          {
+            "code": "0536",
+            "name": "安丘",
+            "pinyin": "anqiu",
+            "label": "anqiu0536"
+          },
+          {
+            "code": "0595",
+            "name": "安溪",
+            "pinyin": "anxi",
+            "label": "anxi0595"
+          },
+          {
+            "code": "0791",
+            "name": "安义",
+            "pinyin": "anyi",
+            "label": "anyi0791"
+          },
+          {
+            "code": "0797",
+            "name": "安远",
+            "pinyin": "anyuan",
+            "label": "anyuan0797"
+          }
+        ]
+      },
+      {
+        "initial": "b",
+        "list": [
+          {
+            "code": "010",
+            "name": "北京",
+            "pinyin": "beijing",
+            "label": "beijing010"
+          },
+          {
+            "code": "0436",
+            "name": "白城",
+            "pinyin": "baicheng",
+            "label": "baicheng0436"
+          },
+          {
+            "code": "0776",
+            "name": "百色",
+            "pinyin": "baise",
+            "label": "baise0776"
+          },
+          {
+            "code": "0439",
+            "name": "白山",
+            "pinyin": "baishan",
+            "label": "baishan0439"
+          },
+          {
+            "code": "0943",
+            "name": "白银",
+            "pinyin": "baiyin",
+            "label": "baiyin0943"
+          },
+          {
+            "code": "0552",
+            "name": "蚌埠",
+            "pinyin": "bangbu",
+            "label": "bangbu0552"
+          },
+          {
+            "code": "0312",
+            "name": "保定",
+            "pinyin": "baoding",
+            "label": "baoding0312"
+          },
+          {
+            "code": "0917",
+            "name": "宝鸡",
+            "pinyin": "baoji",
+            "label": "baoji0917"
+          },
+          {
+            "code": "0875",
+            "name": "保山",
+            "pinyin": "baoshan",
+            "label": "baoshan0875"
+          },
+          {
+            "code": "0472",
+            "name": "包头",
+            "pinyin": "baotou",
+            "label": "baotou0472"
+          },
+          {
+            "code": "0478",
+            "name": "巴彦淖尔",
+            "pinyin": "bayannaoer",
+            "label": "bayannaoer0478"
+          },
+          {
+            "code": "0996",
+            "name": "巴音郭楞",
+            "pinyin": "bayinguoleng",
+            "label": "bayinguoleng0996"
+          },
+          {
+            "code": "0827",
+            "name": "巴中",
+            "pinyin": "bazhong",
+            "label": "bazhong0827"
+          },
+          {
+            "code": "0779",
+            "name": "北海",
+            "pinyin": "beihai",
+            "label": "beihai0779"
+          },
+          {
+            "code": "0414",
+            "name": "本溪",
+            "pinyin": "benxi",
+            "label": "benxi0414"
+          },
+          {
+            "code": "0857",
+            "name": "毕节",
+            "pinyin": "bijie",
+            "label": "bijie0857"
+          },
+          {
+            "code": "0543",
+            "name": "滨州",
+            "pinyin": "binzhou",
+            "label": "binzhou0543"
+          },
+          {
+            "code": "0909",
+            "name": "博尔塔拉",
+            "pinyin": "boertala",
+            "label": "boertala0909"
+          },
+          {
+            "code": "0558",
+            "name": "亳州",
+            "pinyin": "bozhou",
+            "label": "bozhou0558"
+          },
+          {
+            "code": "0514",
+            "name": "宝应",
+            "pinyin": "baoying",
+            "label": "baoying0514"
+          },
+          {
+            "code": "0451",
+            "name": "巴彦",
+            "pinyin": "bayan",
+            "label": "bayan0451"
+          },
+          {
+            "code": "0515",
+            "name": "滨海",
+            "pinyin": "binhai",
+            "label": "binhai0515"
+          },
+          {
+            "code": "0451",
+            "name": "宾县",
+            "pinyin": "binxian",
+            "label": "binxian0451"
+          },
+          {
+            "code": "0771",
+            "name": "宾阳",
+            "pinyin": "binyang",
+            "label": "binyang0771"
+          },
+          {
+            "code": "023",
+            "name": "璧山",
+            "pinyin": "bishan",
+            "label": "bishan023"
+          },
+          {
+            "code": "0391",
+            "name": "博爱",
+            "pinyin": "boai",
+            "label": "boai0391"
+          },
+          {
+            "code": "0752",
+            "name": "博罗",
+            "pinyin": "boluo",
+            "label": "boluo0752"
+          },
+          {
+            "code": "0543",
+            "name": "博兴",
+            "pinyin": "boxing",
+            "label": "boxing0543"
+          }
+        ]
+      },
+      {
+        "initial": "c",
+        "list": [
+          {
+            "code": "023",
+            "name": "重庆",
+            "pinyin": "chongqing",
+            "label": "chongqing023"
+          },
+          {
+            "code": "0431",
+            "name": "长春",
+            "pinyin": "changchun",
+            "label": "changchun0431"
+          },
+          {
+            "code": "0731",
+            "name": "长沙",
+            "pinyin": "changsha",
+            "label": "changsha0731"
+          },
+          {
+            "code": "0519",
+            "name": "常州",
+            "pinyin": "changzhou",
+            "label": "changzhou0519"
+          },
+          {
+            "code": "028",
+            "name": "成都",
+            "pinyin": "chengdu",
+            "label": "chengdu028"
+          },
+          {
+            "code": "0317",
+            "name": "沧州",
+            "pinyin": "cangzhou",
+            "label": "cangzhou0317"
+          },
+          {
+            "code": "0736",
+            "name": "常德",
+            "pinyin": "changde",
+            "label": "changde0736"
+          },
+          {
+            "code": "0895",
+            "name": "昌都",
+            "pinyin": "changdu",
+            "label": "changdu0895"
+          },
+          {
+            "code": "0997",
+            "name": "昌吉",
+            "pinyin": "changji",
+            "label": "changji0997"
+          },
+          {
+            "code": "0355",
+            "name": "长治",
+            "pinyin": "changzhi",
+            "label": "changzhi0355"
+          },
+          {
+            "code": "0565",
+            "name": "巢湖",
+            "pinyin": "chaohu",
+            "label": "chaohu0565"
+          },
+          {
+            "code": "0421",
+            "name": "朝阳",
+            "pinyin": "chaoyang",
+            "label": "chaoyang0421"
+          },
+          {
+            "code": "0768",
+            "name": "潮州",
+            "pinyin": "chaozhou",
+            "label": "chaozhou0768"
+          },
+          {
+            "code": "0314",
+            "name": "承德",
+            "pinyin": "chengde",
+            "label": "chengde0314"
+          },
+          {
+            "code": "0735",
+            "name": "郴州",
+            "pinyin": "chenzhou",
+            "label": "chenzhou0735"
+          },
+          {
+            "code": "0476",
+            "name": "赤峰",
+            "pinyin": "chifeng",
+            "label": "chifeng0476"
+          },
+          {
+            "code": "0566",
+            "name": "池州",
+            "pinyin": "chizhou",
+            "label": "chizhou0566"
+          },
+          {
+            "code": "0771",
+            "name": "崇左",
+            "pinyin": "chongzuo",
+            "label": "chongzuo0771"
+          },
+          {
+            "code": "0875",
+            "name": "楚雄",
+            "pinyin": "chuxiong",
+            "label": "chuxiong0875"
+          },
+          {
+            "code": "0550",
+            "name": "滁州",
+            "pinyin": "chuzhou",
+            "label": "chuzhou0550"
+          },
+          {
+            "code": "0577",
+            "name": "苍南",
+            "pinyin": "cangnan",
+            "label": "cangnan0577"
+          },
+          {
+            "code": "0539",
+            "name": "苍山",
+            "pinyin": "cangshan",
+            "label": "cangshan0539"
+          },
+          {
+            "code": "0530",
+            "name": "曹县",
+            "pinyin": "caoxian",
+            "label": "caoxian0530"
+          },
+          {
+            "code": "0535",
+            "name": "长岛",
+            "pinyin": "changdao",
+            "label": "changdao0535"
+          },
+          {
+            "code": "0551",
+            "name": "长丰",
+            "pinyin": "changfeng",
+            "label": "changfeng0551"
+          },
+          {
+            "code": "0411",
+            "name": "长海",
+            "pinyin": "changhai",
+            "label": "changhai0411"
+          },
+          {
+            "code": "0591",
+            "name": "长乐",
+            "pinyin": "changle",
+            "label": "changle0591"
+          },
+          {
+            "code": "0536",
+            "name": "昌乐",
+            "pinyin": "changle",
+            "label": "changle0536"
+          },
+          {
+            "code": "0570",
+            "name": "常山",
+            "pinyin": "changshan",
+            "label": "changshan0570"
+          },
+          {
+            "code": "0512",
+            "name": "常熟",
+            "pinyin": "changshu",
+            "label": "changshu0512"
+          },
+          {
+            "code": "0596",
+            "name": "长泰",
+            "pinyin": "changtai",
+            "label": "changtai0596"
+          },
+          {
+            "code": "0597",
+            "name": "长汀",
+            "pinyin": "changting",
+            "label": "changting0597"
+          },
+          {
+            "code": "0572",
+            "name": "长兴",
+            "pinyin": "changxing",
+            "label": "changxing0572"
+          },
+          {
+            "code": "0536",
+            "name": "昌邑",
+            "pinyin": "changyi",
+            "label": "changyi0536"
+          },
+          {
+            "code": "0768",
+            "name": "潮安",
+            "pinyin": "chaoan",
+            "label": "chaoan0768"
+          },
+          {
+            "code": "0871",
+            "name": "呈贡",
+            "pinyin": "chenggong",
+            "label": "chenggong0871"
+          },
+          {
+            "code": "023",
+            "name": "城口",
+            "pinyin": "chengkou",
+            "label": "chengkou023"
+          },
+          {
+            "code": "0530",
+            "name": "成武",
+            "pinyin": "chengwu",
+            "label": "chengwu0530"
+          },
+          {
+            "code": "0635",
+            "name": "茌平",
+            "pinyin": "chiping",
+            "label": "chiping0635"
+          },
+          {
+            "code": "0794",
+            "name": "崇仁",
+            "pinyin": "chongren",
+            "label": "chongren0794"
+          },
+          {
+            "code": "0797",
+            "name": "崇义",
+            "pinyin": "chongyi",
+            "label": "chongyi0797"
+          },
+          {
+            "code": "028",
+            "name": "崇州",
+            "pinyin": "chongzhou",
+            "label": "chongzhou028"
+          },
+          {
+            "code": "0571",
+            "name": "淳安",
+            "pinyin": "chunan",
+            "label": "chunan0571"
+          },
+          {
+            "code": "0574",
+            "name": "慈溪",
+            "pinyin": "cixi",
+            "label": "cixi0574"
+          },
+          {
+            "code": "020",
+            "name": "从化",
+            "pinyin": "conghua",
+            "label": "conghua020"
+          },
+          {
+            "code": "0556",
+            "name": "枞阳",
+            "pinyin": "congyang",
+            "label": "congyang0556"
+          }
+        ]
+      },
+      {
+        "initial": "d",
+        "list": [
+          {
+            "code": "0411",
+            "name": "大连",
+            "pinyin": "dalian",
+            "label": "dalian0411"
+          },
+          {
+            "code": "0769",
+            "name": "东莞",
+            "pinyin": "dongguan",
+            "label": "dongguan0769"
+          },
+          {
+            "code": "0872",
+            "name": "大理",
+            "pinyin": "dali",
+            "label": "dali0872"
+          },
+          {
+            "code": "0415",
+            "name": "丹东",
+            "pinyin": "dandong",
+            "label": "dandong0415"
+          },
+          {
+            "code": "0459",
+            "name": "大庆",
+            "pinyin": "daqing",
+            "label": "daqing0459"
+          },
+          {
+            "code": "0352",
+            "name": "大同",
+            "pinyin": "datong",
+            "label": "datong0352"
+          },
+          {
+            "code": "0457",
+            "name": "大兴安岭",
+            "pinyin": "daxinganling",
+            "label": "daxinganling0457"
+          },
+          {
+            "code": "0818",
+            "name": "达州",
+            "pinyin": "dazhou",
+            "label": "dazhou0818"
+          },
+          {
+            "code": "0692",
+            "name": "德宏",
+            "pinyin": "dehong",
+            "label": "dehong0692"
+          },
+          {
+            "code": "0838",
+            "name": "德阳",
+            "pinyin": "deyang",
+            "label": "deyang0838"
+          },
+          {
+            "code": "0534",
+            "name": "德州",
+            "pinyin": "dezhou",
+            "label": "dezhou0534"
+          },
+          {
+            "code": "0932",
+            "name": "定西",
+            "pinyin": "dingxi",
+            "label": "dingxi0932"
+          },
+          {
+            "code": "0887",
+            "name": "迪庆",
+            "pinyin": "diqing",
+            "label": "diqing0887"
+          },
+          {
+            "code": "0546",
+            "name": "东营",
+            "pinyin": "dongying",
+            "label": "dongying0546"
+          },
+          {
+            "code": "0515",
+            "name": "大丰",
+            "pinyin": "dafeng",
+            "label": "dafeng0515"
+          },
+          {
+            "code": "0580",
+            "name": "岱山",
+            "pinyin": "daishan",
+            "label": "daishan0580"
+          },
+          {
+            "code": "0557",
+            "name": "砀山",
+            "pinyin": "dangshan",
+            "label": "dangshan0557"
+          },
+          {
+            "code": "0555",
+            "name": "当涂",
+            "pinyin": "dangtu",
+            "label": "dangtu0555"
+          },
+          {
+            "code": "0530",
+            "name": "单县",
+            "pinyin": "danxian",
+            "label": "danxian0530"
+          },
+          {
+            "code": "0511",
+            "name": "丹阳",
+            "pinyin": "danyang",
+            "label": "danyang0511"
+          },
+          {
+            "code": "0753",
+            "name": "大埔",
+            "pinyin": "dapu",
+            "label": "dapu0753"
+          },
+          {
+            "code": "0598",
+            "name": "大田",
+            "pinyin": "datian",
+            "label": "datian0598"
+          },
+          {
+            "code": "028",
+            "name": "大邑",
+            "pinyin": "dayi",
+            "label": "dayi028"
+          },
+          {
+            "code": "0797",
+            "name": "大余",
+            "pinyin": "dayu",
+            "label": "dayu0797"
+          },
+          {
+            "code": "023",
+            "name": "大足",
+            "pinyin": "dazu",
+            "label": "dazu023"
+          },
+          {
+            "code": "0792",
+            "name": "德安",
+            "pinyin": "dean",
+            "label": "dean0792"
+          },
+          {
+            "code": "0595",
+            "name": "德化",
+            "pinyin": "dehua",
+            "label": "dehua0595"
+          },
+          {
+            "code": "0431",
+            "name": "德惠",
+            "pinyin": "dehui",
+            "label": "dehui0431"
+          },
+          {
+            "code": "0371",
+            "name": "登封",
+            "pinyin": "dengfeng",
+            "label": "dengfeng0371"
+          },
+          {
+            "code": "0572",
+            "name": "德清",
+            "pinyin": "deqing",
+            "label": "deqing0572"
+          },
+          {
+            "code": "0758",
+            "name": "德庆",
+            "pinyin": "deqing",
+            "label": "deqing0758"
+          },
+          {
+            "code": "0793",
+            "name": "德兴",
+            "pinyin": "dexing",
+            "label": "dexing0793"
+          },
+          {
+            "code": "0668",
+            "name": "电白",
+            "pinyin": "dianbai",
+            "label": "dianbai0668"
+          },
+          {
+            "code": "023",
+            "name": "垫江",
+            "pinyin": "dianjiang",
+            "label": "dianjiang023"
+          },
+          {
+            "code": "0797",
+            "name": "定南",
+            "pinyin": "dingnan",
+            "label": "dingnan0797"
+          },
+          {
+            "code": "0530",
+            "name": "定陶",
+            "pinyin": "dingtao",
+            "label": "dingtao0530"
+          },
+          {
+            "code": "0550",
+            "name": "定远",
+            "pinyin": "dingyuan",
+            "label": "dingyuan0550"
+          },
+          {
+            "code": "0635",
+            "name": "东阿",
+            "pinyin": "donga",
+            "label": "donga0635"
+          },
+          {
+            "code": "0518",
+            "name": "东海",
+            "pinyin": "donghai",
+            "label": "donghai0518"
+          },
+          {
+            "code": "0530",
+            "name": "东明",
+            "pinyin": "dongming",
+            "label": "dongming0530"
+          },
+          {
+            "code": "0538",
+            "name": "东平",
+            "pinyin": "dongping",
+            "label": "dongping0538"
+          },
+          {
+            "code": "0596",
+            "name": "东山",
+            "pinyin": "dongshan",
+            "label": "dongshan0596"
+          },
+          {
+            "code": "0515",
+            "name": "东台",
+            "pinyin": "dongtai",
+            "label": "dongtai0515"
+          },
+          {
+            "code": "0577",
+            "name": "洞头",
+            "pinyin": "dongtou",
+            "label": "dongtou0577"
+          },
+          {
+            "code": "0794",
+            "name": "东乡",
+            "pinyin": "dongxiang",
+            "label": "dongxiang0794"
+          },
+          {
+            "code": "0579",
+            "name": "东阳",
+            "pinyin": "dongyang",
+            "label": "dongyang0579"
+          },
+          {
+            "code": "0762",
+            "name": "东源",
+            "pinyin": "dongyuan",
+            "label": "dongyuan0762"
+          },
+          {
+            "code": "0566",
+            "name": "东至",
+            "pinyin": "dongzhi",
+            "label": "dongzhi0566"
+          },
+          {
+            "code": "0792",
+            "name": "都昌",
+            "pinyin": "duchang",
+            "label": "duchang0792"
+          },
+          {
+            "code": "028",
+            "name": "都江堰",
+            "pinyin": "dujiangyan",
+            "label": "dujiangyan028"
+          }
+        ]
+      },
+      {
+        "initial": "e",
+        "list": [
+          {
+            "code": "0718",
+            "name": "恩施",
+            "pinyin": "enshi",
+            "label": "enshi0718"
+          },
+          {
+            "code": "0477",
+            "name": "鄂尔多斯",
+            "pinyin": "eerduosi",
+            "label": "eerduosi0477"
+          },
+          {
+            "code": "0711",
+            "name": "鄂州",
+            "pinyin": "ezhou",
+            "label": "ezhou0711"
+          },
+          {
+            "code": "0750",
+            "name": "恩平",
+            "pinyin": "enping",
+            "label": "enping0750"
+          }
+        ]
+      },
+      {
+        "initial": "f",
+        "list": [
+          {
+            "code": "0413",
+            "name": "抚顺",
+            "pinyin": "fushun",
+            "label": "fushun0413"
+          },
+          {
+            "code": "0757",
+            "name": "佛山",
+            "pinyin": "foshan",
+            "label": "foshan0757"
+          },
+          {
+            "code": "0591",
+            "name": "福州",
+            "pinyin": "fuzhou",
+            "label": "fuzhou0591"
+          },
+          {
+            "code": "0770",
+            "name": "防城港",
+            "pinyin": "fangchenggang",
+            "label": "fangchenggang0770"
+          },
+          {
+            "code": "0418",
+            "name": "阜新",
+            "pinyin": "fuxin",
+            "label": "fuxin0418"
+          },
+          {
+            "code": "0558",
+            "name": "阜阳",
+            "pinyin": "fuyang",
+            "label": "fuyang0558"
+          },
+          {
+            "code": "0794",
+            "name": "抚州",
+            "pinyin": "fuzhou",
+            "label": "fuzhou0794"
+          },
+          {
+            "code": "024",
+            "name": "法库",
+            "pinyin": "faku",
+            "label": "faku024"
+          },
+          {
+            "code": "0553",
+            "name": "繁昌",
+            "pinyin": "fanchang",
+            "label": "fanchang0553"
+          },
+          {
+            "code": "0451",
+            "name": "方正",
+            "pinyin": "fangzheng",
+            "label": "fangzheng0451"
+          },
+          {
+            "code": "0538",
+            "name": "肥城",
+            "pinyin": "feicheng",
+            "label": "feicheng0538"
+          },
+          {
+            "code": "0551",
+            "name": "肥东",
+            "pinyin": "feidong",
+            "label": "feidong0551"
+          },
+          {
+            "code": "0551",
+            "name": "肥西",
+            "pinyin": "feixi",
+            "label": "feixi0551"
+          },
+          {
+            "code": "0539",
+            "name": "费县",
+            "pinyin": "feixian",
+            "label": "feixian0539"
+          },
+          {
+            "code": "0795",
+            "name": "丰城",
+            "pinyin": "fengcheng",
+            "label": "fengcheng0795"
+          },
+          {
+            "code": "023",
+            "name": "丰都",
+            "pinyin": "fengdu",
+            "label": "fengdu023"
+          },
+          {
+            "code": "0574",
+            "name": "奉化",
+            "pinyin": "fenghua",
+            "label": "fenghua0574"
+          },
+          {
+            "code": "023",
+            "name": "奉节",
+            "pinyin": "fengjie",
+            "label": "fengjie023"
+          },
+          {
+            "code": "0758",
+            "name": "封开",
+            "pinyin": "fengkai",
+            "label": "fengkai0758"
+          },
+          {
+            "code": "0753",
+            "name": "丰顺",
+            "pinyin": "fengshun",
+            "label": "fengshun0753"
+          },
+          {
+            "code": "0554",
+            "name": "凤台",
+            "pinyin": "fengtai",
+            "label": "fengtai0554"
+          },
+          {
+            "code": "0516",
+            "name": "丰县",
+            "pinyin": "fengxian",
+            "label": "fengxian0516"
+          },
+          {
+            "code": "0795",
+            "name": "奉新",
+            "pinyin": "fengxin",
+            "label": "fengxin0795"
+          },
+          {
+            "code": "0550",
+            "name": "凤阳",
+            "pinyin": "fengyang",
+            "label": "fengyang0550"
+          },
+          {
+            "code": "0790",
+            "name": "分宜",
+            "pinyin": "fenyi",
+            "label": "fenyi0790"
+          },
+          {
+            "code": "0763",
+            "name": "佛冈",
+            "pinyin": "fogang",
+            "label": "fogang0763"
+          },
+          {
+            "code": "0593",
+            "name": "福安",
+            "pinyin": "fuan",
+            "label": "fuan0593"
+          },
+          {
+            "code": "0593",
+            "name": "福鼎",
+            "pinyin": "fuding",
+            "label": "fuding0593"
+          },
+          {
+            "code": "0798",
+            "name": "浮梁",
+            "pinyin": "fuliang",
+            "label": "fuliang0798"
+          },
+          {
+            "code": "0871",
+            "name": "富民",
+            "pinyin": "fumin",
+            "label": "fumin0871"
+          },
+          {
+            "code": "0558",
+            "name": "阜南",
+            "pinyin": "funan",
+            "label": "funan0558"
+          },
+          {
+            "code": "0515",
+            "name": "阜宁",
+            "pinyin": "funing",
+            "label": "funing0515"
+          },
+          {
+            "code": "0591",
+            "name": "福清",
+            "pinyin": "fuqing",
+            "label": "fuqing0591"
+          },
+          {
+            "code": "0571",
+            "name": "富阳",
+            "pinyin": "fuyang",
+            "label": "fuyang0571"
+          }
+        ]
+      },
+      {
+        "initial": "g",
+        "list": [
+          {
+            "code": "0941",
+            "name": "甘南",
+            "pinyin": "gannan",
+            "label": "gannan0941"
+          },
+          {
+            "code": "020",
+            "name": "广州",
+            "pinyin": "guangzhou",
+            "label": "guangzhou020"
+          },
+          {
+            "code": "0851",
+            "name": "贵阳",
+            "pinyin": "guiyang",
+            "label": "guiyang0851"
+          },
+          {
+            "code": "0797",
+            "name": "赣州",
+            "pinyin": "ganzhou",
+            "label": "ganzhou0797"
+          },
+          {
+            "code": "0836",
+            "name": "甘孜",
+            "pinyin": "ganzi",
+            "label": "ganzi0836"
+          },
+          {
+            "code": "0826",
+            "name": "广安",
+            "pinyin": "guangan",
+            "label": "guangan0826"
+          },
+          {
+            "code": "0839",
+            "name": "广元",
+            "pinyin": "guangyuan",
+            "label": "guangyuan0839"
+          },
+          {
+            "code": "0775",
+            "name": "贵港",
+            "pinyin": "guigang",
+            "label": "guigang0775"
+          },
+          {
+            "code": "0773",
+            "name": "桂林",
+            "pinyin": "guilin",
+            "label": "guilin0773"
+          },
+          {
+            "code": "0975",
+            "name": "果洛",
+            "pinyin": "guoluo",
+            "label": "guoluo0975"
+          },
+          {
+            "code": "0954",
+            "name": "固原",
+            "pinyin": "guyuan",
+            "label": "guyuan0954"
+          },
+          {
+            "code": "0797",
+            "name": "赣县",
+            "pinyin": "ganxian",
+            "label": "ganxian0797"
+          },
+          {
+            "code": "0518",
+            "name": "赣榆",
+            "pinyin": "ganyu",
+            "label": "ganyu0518"
+          },
+          {
+            "code": "0795",
+            "name": "高安",
+            "pinyin": "gaoan",
+            "label": "gaoan0795"
+          },
+          {
+            "code": "0311",
+            "name": "藁城",
+            "pinyin": "gaocheng",
+            "label": "gaocheng0311"
+          },
+          {
+            "code": "025",
+            "name": "高淳",
+            "pinyin": "gaochun",
+            "label": "gaochun025"
+          },
+          {
+            "code": "0931",
+            "name": "皋兰",
+            "pinyin": "gaolan",
+            "label": "gaolan0931"
+          },
+          {
+            "code": "029",
+            "name": "高陵",
+            "pinyin": "gaoling",
+            "label": "gaoling029"
+          },
+          {
+            "code": "0536",
+            "name": "高密",
+            "pinyin": "gaomi",
+            "label": "gaomi0536"
+          },
+          {
+            "code": "0533",
+            "name": "高青",
+            "pinyin": "gaoqing",
+            "label": "gaoqing0533"
+          },
+          {
+            "code": "0635",
+            "name": "高唐",
+            "pinyin": "gaotang",
+            "label": "gaotang0635"
+          },
+          {
+            "code": "0758",
+            "name": "高要",
+            "pinyin": "gaoyao",
+            "label": "gaoyao0758"
+          },
+          {
+            "code": "0311",
+            "name": "高邑",
+            "pinyin": "gaoyi",
+            "label": "gaoyi0311"
+          },
+          {
+            "code": "0514",
+            "name": "高邮",
+            "pinyin": "gaoyou",
+            "label": "gaoyou0514"
+          },
+          {
+            "code": "0668",
+            "name": "高州",
+            "pinyin": "gaozhou",
+            "label": "gaozhou0668"
+          },
+          {
+            "code": "0371",
+            "name": "巩义",
+            "pinyin": "gongyi",
+            "label": "gongyi0371"
+          },
+          {
+            "code": "0794",
+            "name": "广昌",
+            "pinyin": "guangchang",
+            "label": "guangchang0794"
+          },
+          {
+            "code": "0563",
+            "name": "广德",
+            "pinyin": "guangde",
+            "label": "guangde0563"
+          },
+          {
+            "code": "0793",
+            "name": "广丰",
+            "pinyin": "guangfeng",
+            "label": "guangfeng0793"
+          },
+          {
+            "code": "0758",
+            "name": "广宁",
+            "pinyin": "guangning",
+            "label": "guangning0758"
+          },
+          {
+            "code": "0546",
+            "name": "广饶",
+            "pinyin": "guangrao",
+            "label": "guangrao0546"
+          },
+          {
+            "code": "0599",
+            "name": "光泽",
+            "pinyin": "guangze",
+            "label": "guangze0599"
+          },
+          {
+            "code": "0518",
+            "name": "灌南",
+            "pinyin": "guannan",
+            "label": "guannan0518"
+          },
+          {
+            "code": "0635",
+            "name": "冠县",
+            "pinyin": "guanxian",
+            "label": "guanxian0635"
+          },
+          {
+            "code": "0518",
+            "name": "灌云",
+            "pinyin": "guanyun",
+            "label": "guanyun0518"
+          },
+          {
+            "code": "0701",
+            "name": "贵溪",
+            "pinyin": "guixi",
+            "label": "guixi0701"
+          },
+          {
+            "code": "0593",
+            "name": "古田",
+            "pinyin": "gutian",
+            "label": "gutian0593"
+          },
+          {
+            "code": "0552",
+            "name": "固镇",
+            "pinyin": "guzhen",
+            "label": "guzhen0552"
+          }
+        ]
+      },
+      {
+        "initial": "h",
+        "list": [
+          {
+            "code": "0970",
+            "name": "海北",
+            "pinyin": "haibei",
+            "label": "haibei0970"
+          },
+          {
+            "code": "0451",
+            "name": "哈尔滨",
+            "pinyin": "haerbin",
+            "label": "haerbin0451"
+          },
+          {
+            "code": "0898",
+            "name": "海口",
+            "pinyin": "haikou",
+            "label": "haikou0898"
+          },
+          {
+            "code": "0310",
+            "name": "邯郸",
+            "pinyin": "handan",
+            "label": "handan0310"
+          },
+          {
+            "code": "0571",
+            "name": "杭州",
+            "pinyin": "hangzhou",
+            "label": "hangzhou0571"
+          },
+          {
+            "code": "0551",
+            "name": "合肥",
+            "pinyin": "hefei",
+            "label": "hefei0551"
+          },
+          {
+            "code": "0752",
+            "name": "惠州",
+            "pinyin": "huizhou",
+            "label": "huizhou0752"
+          },
+          {
+            "code": "0972",
+            "name": "海东",
+            "pinyin": "haidong",
+            "label": "haidong0972"
+          },
+          {
+            "code": "0974",
+            "name": "海南",
+            "pinyin": "hainan",
+            "label": "hainan0974"
+          },
+          {
+            "code": "0977",
+            "name": "海西",
+            "pinyin": "haixi",
+            "label": "haixi0977"
+          },
+          {
+            "code": "0902",
+            "name": "哈密",
+            "pinyin": "hami",
+            "label": "hami0902"
+          },
+          {
+            "code": "0916",
+            "name": "汉中",
+            "pinyin": "hanzhong",
+            "label": "hanzhong0916"
+          },
+          {
+            "code": "0392",
+            "name": "鹤壁",
+            "pinyin": "hebi",
+            "label": "hebi0392"
+          },
+          {
+            "code": "0778",
+            "name": "河池",
+            "pinyin": "hechi",
+            "label": "hechi0778"
+          },
+          {
+            "code": "0468",
+            "name": "鹤岗",
+            "pinyin": "hegang",
+            "label": "hegang0468"
+          },
+          {
+            "code": "0456",
+            "name": "黑河",
+            "pinyin": "heihe",
+            "label": "heihe0456"
+          },
+          {
+            "code": "0318",
+            "name": "衡水",
+            "pinyin": "hengshui",
+            "label": "hengshui0318"
+          },
+          {
+            "code": "0734",
+            "name": "衡阳",
+            "pinyin": "hengyang",
+            "label": "hengyang0734"
+          },
+          {
+            "code": "0903",
+            "name": "和田地",
+            "pinyin": "hetiandi",
+            "label": "hetiandi0903"
+          },
+          {
+            "code": "0762",
+            "name": "河源",
+            "pinyin": "heyuan",
+            "label": "heyuan0762"
+          },
+          {
+            "code": "0530",
+            "name": "菏泽",
+            "pinyin": "heze",
+            "label": "heze0530"
+          },
+          {
+            "code": "0774",
+            "name": "贺州",
+            "pinyin": "hezhou",
+            "label": "hezhou0774"
+          },
+          {
+            "code": "0873",
+            "name": "红河",
+            "pinyin": "honghe",
+            "label": "honghe0873"
+          },
+          {
+            "code": "0517",
+            "name": "淮安",
+            "pinyin": "huaian",
+            "label": "huaian0517"
+          },
+          {
+            "code": "0561",
+            "name": "淮北",
+            "pinyin": "huaibei",
+            "label": "huaibei0561"
+          },
+          {
+            "code": "0745",
+            "name": "怀化",
+            "pinyin": "huaihua",
+            "label": "huaihua0745"
+          },
+          {
+            "code": "0554",
+            "name": "淮南",
+            "pinyin": "huainan",
+            "label": "huainan0554"
+          },
+          {
+            "code": "0713",
+            "name": "黄冈",
+            "pinyin": "huanggang",
+            "label": "huanggang0713"
+          },
+          {
+            "code": "0973",
+            "name": "黄南",
+            "pinyin": "huangnan",
+            "label": "huangnan0973"
+          },
+          {
+            "code": "0559",
+            "name": "黄山",
+            "pinyin": "huangshan",
+            "label": "huangshan0559"
+          },
+          {
+            "code": "0714",
+            "name": "黄石",
+            "pinyin": "huangshi",
+            "label": "huangshi0714"
+          },
+          {
+            "code": "0471",
+            "name": "呼和浩特",
+            "pinyin": "huhehaote",
+            "label": "huhehaote0471"
+          },
+          {
+            "code": "0429",
+            "name": "葫芦岛",
+            "pinyin": "huludao",
+            "label": "huludao0429"
+          },
+          {
+            "code": "0470",
+            "name": "呼伦贝尔",
+            "pinyin": "hulunbeier",
+            "label": "hulunbeier0470"
+          },
+          {
+            "code": "0572",
+            "name": "湖州",
+            "pinyin": "huzhou",
+            "label": "huzhou0572"
+          },
+          {
+            "code": "0513",
+            "name": "海安",
+            "pinyin": "haian",
+            "label": "haian0513"
+          },
+          {
+            "code": "0660",
+            "name": "海丰",
+            "pinyin": "haifeng",
+            "label": "haifeng0660"
+          },
+          {
+            "code": "0513",
+            "name": "海门",
+            "pinyin": "haimen",
+            "label": "haimen0513"
+          },
+          {
+            "code": "0573",
+            "name": "海宁",
+            "pinyin": "haining",
+            "label": "haining0573"
+          },
+          {
+            "code": "0573",
+            "name": "海盐",
+            "pinyin": "haiyan",
+            "label": "haiyan0573"
+          },
+          {
+            "code": "0535",
+            "name": "海阳",
+            "pinyin": "haiyang",
+            "label": "haiyang0535"
+          },
+          {
+            "code": "0565",
+            "name": "含山",
+            "pinyin": "hanshan",
+            "label": "hanshan0565"
+          },
+          {
+            "code": "023",
+            "name": "合川",
+            "pinyin": "hechuan",
+            "label": "hechuan023"
+          },
+          {
+            "code": "0793",
+            "name": "横峰",
+            "pinyin": "hengfeng",
+            "label": "hengfeng0793"
+          },
+          {
+            "code": "0771",
+            "name": "横县",
+            "pinyin": "hengxian",
+            "label": "hengxian0771"
+          },
+          {
+            "code": "0762",
+            "name": "和平",
+            "pinyin": "heping",
+            "label": "heping0762"
+          },
+          {
+            "code": "0750",
+            "name": "鹤山",
+            "pinyin": "heshan",
+            "label": "heshan0750"
+          },
+          {
+            "code": "0565",
+            "name": "和县",
+            "pinyin": "hexian",
+            "label": "hexian0565"
+          },
+          {
+            "code": "0517",
+            "name": "洪泽",
+            "pinyin": "hongze",
+            "label": "hongze0517"
+          },
+          {
+            "code": "0596",
+            "name": "华安",
+            "pinyin": "huaan",
+            "label": "huaan0596"
+          },
+          {
+            "code": "0423",
+            "name": "桦甸",
+            "pinyin": "huadian",
+            "label": "huadian0423"
+          },
+          {
+            "code": "0758",
+            "name": "怀集",
+            "pinyin": "huaiji",
+            "label": "huaiji0758"
+          },
+          {
+            "code": "0556",
+            "name": "怀宁",
+            "pinyin": "huaining",
+            "label": "huaining0556"
+          },
+          {
+            "code": "0552",
+            "name": "怀远",
+            "pinyin": "huaiyuan",
+            "label": "huaiyuan0552"
+          },
+          {
+            "code": "0533",
+            "name": "桓台",
+            "pinyin": "huantai",
+            "label": "huantai0533"
+          },
+          {
+            "code": "0668",
+            "name": "化州",
+            "pinyin": "huazhou",
+            "label": "huazhou0668"
+          },
+          {
+            "code": "0595",
+            "name": "惠安",
+            "pinyin": "huian",
+            "label": "huian0595"
+          },
+          {
+            "code": "0797",
+            "name": "会昌",
+            "pinyin": "huichang",
+            "label": "huichang0797"
+          },
+          {
+            "code": "0752",
+            "name": "惠东",
+            "pinyin": "huidong",
+            "label": "huidong0752"
+          },
+          {
+            "code": "0663",
+            "name": "惠来",
+            "pinyin": "huilai",
+            "label": "huilai0663"
+          },
+          {
+            "code": "0543",
+            "name": "惠民",
+            "pinyin": "huimin",
+            "label": "huimin0543"
+          },
+          {
+            "code": "0792",
+            "name": "湖口",
+            "pinyin": "hukou",
+            "label": "hukou0792"
+          },
+          {
+            "code": "0451",
+            "name": "呼兰",
+            "pinyin": "hulan",
+            "label": "hulan0451"
+          },
+          {
+            "code": "0564",
+            "name": "霍邱",
+            "pinyin": "huoqiu",
+            "label": "huoqiu0564"
+          },
+          {
+            "code": "0564",
+            "name": "霍山",
+            "pinyin": "huoshan",
+            "label": "huoshan0564"
+          },
+          {
+            "code": "029",
+            "name": "户县",
+            "pinyin": "huxian",
+            "label": "huxian029"
+          }
+        ]
+      },
+      {
+        "initial": "j",
+        "list": [
+          {
+            "code": "0454",
+            "name": "佳木斯",
+            "pinyin": "jiamusi",
+            "label": "jiamusi0454"
+          },
+          {
+            "code": "0391",
+            "name": "焦作",
+            "pinyin": "jiaozuo",
+            "label": "jiaozuo0391"
+          },
+          {
+            "code": "0573",
+            "name": "嘉兴",
+            "pinyin": "jiaxing",
+            "label": "jiaxing0573"
+          },
+          {
+            "code": "0423",
+            "name": "吉林",
+            "pinyin": "jilin",
+            "label": "jilin0423"
+          },
+          {
+            "code": "0531",
+            "name": "济南",
+            "pinyin": "jinan",
+            "label": "jinan0531"
+          },
+          {
+            "code": "0750",
+            "name": "江门",
+            "pinyin": "jiangmen",
+            "label": "jiangmen0750"
+          },
+          {
+            "code": "0796",
+            "name": "吉安",
+            "pinyin": "jian",
+            "label": "jian0796"
+          },
+          {
+            "code": "0937",
+            "name": "嘉峪关",
+            "pinyin": "jiayuguan",
+            "label": "jiayuguan0937"
+          },
+          {
+            "code": "0663",
+            "name": "揭阳",
+            "pinyin": "jieyang",
+            "label": "jieyang0663"
+          },
+          {
+            "code": "0935",
+            "name": "金昌",
+            "pinyin": "jinchang",
+            "label": "jinchang0935"
+          },
+          {
+            "code": "0356",
+            "name": "晋城",
+            "pinyin": "jincheng",
+            "label": "jincheng0356"
+          },
+          {
+            "code": "0798",
+            "name": "景德镇",
+            "pinyin": "jingdezhen",
+            "label": "jingdezhen0798"
+          },
+          {
+            "code": "0724",
+            "name": "荆门",
+            "pinyin": "jingmen",
+            "label": "jingmen0724"
+          },
+          {
+            "code": "0716",
+            "name": "荆州",
+            "pinyin": "jingzhou",
+            "label": "jingzhou0716"
+          },
+          {
+            "code": "0579",
+            "name": "金华",
+            "pinyin": "jinhua",
+            "label": "jinhua0579"
+          },
+          {
+            "code": "0537",
+            "name": "济宁",
+            "pinyin": "jining",
+            "label": "jining0537"
+          },
+          {
+            "code": "0354",
+            "name": "晋中",
+            "pinyin": "jinzhong",
+            "label": "jinzhong0354"
+          },
+          {
+            "code": "0416",
+            "name": "锦州",
+            "pinyin": "jinzhou",
+            "label": "jinzhou0416"
+          },
+          {
+            "code": "0792",
+            "name": "九江",
+            "pinyin": "jiujiang",
+            "label": "jiujiang0792"
+          },
+          {
+            "code": "0937",
+            "name": "酒泉",
+            "pinyin": "jiuquan",
+            "label": "jiuquan0937"
+          },
+          {
+            "code": "0467",
+            "name": "鸡西",
+            "pinyin": "jixi",
+            "label": "jixi0467"
+          },
+          {
+            "code": "0571",
+            "name": "建德",
+            "pinyin": "jiande",
+            "label": "jiande0571"
+          },
+          {
+            "code": "0514",
+            "name": "江都",
+            "pinyin": "jiangdu",
+            "label": "jiangdu0514"
+          },
+          {
+            "code": "023",
+            "name": "江津",
+            "pinyin": "jiangjin",
+            "label": "jiangjin023"
+          },
+          {
+            "code": "0598",
+            "name": "将乐",
+            "pinyin": "jiangle",
+            "label": "jiangle0598"
+          },
+          {
+            "code": "0570",
+            "name": "江山",
+            "pinyin": "jiangshan",
+            "label": "jiangshan0570"
+          },
+          {
+            "code": "0523",
+            "name": "姜堰",
+            "pinyin": "jiangyan",
+            "label": "jiangyan0523"
+          },
+          {
+            "code": "0510",
+            "name": "江阴",
+            "pinyin": "jiangyin",
+            "label": "jiangyin0510"
+          },
+          {
+            "code": "0515",
+            "name": "建湖",
+            "pinyin": "jianhu",
+            "label": "jianhu0515"
+          },
+          {
+            "code": "0598",
+            "name": "建宁",
+            "pinyin": "jianning",
+            "label": "jianning0598"
+          },
+          {
+            "code": "0599",
+            "name": "建瓯",
+            "pinyin": "jianou",
+            "label": "jianou0599"
+          },
+          {
+            "code": "0599",
+            "name": "建阳",
+            "pinyin": "jianyang",
+            "label": "jianyang0599"
+          },
+          {
+            "code": "0796",
+            "name": "吉安",
+            "pinyin": "jian",
+            "label": "jian0796"
+          },
+          {
+            "code": "0423",
+            "name": "蛟河",
+            "pinyin": "jiaohe",
+            "label": "jiaohe0423"
+          },
+          {
+            "code": "0753",
+            "name": "蕉岭",
+            "pinyin": "jiaoling",
+            "label": "jiaoling0753"
+          },
+          {
+            "code": "0532",
+            "name": "胶南",
+            "pinyin": "jiaonan",
+            "label": "jiaonan0532"
+          },
+          {
+            "code": "0532",
+            "name": "胶州",
+            "pinyin": "jiaozhou",
+            "label": "jiaozhou0532"
+          },
+          {
+            "code": "0573",
+            "name": "嘉善",
+            "pinyin": "jiashan",
+            "label": "jiashan0573"
+          },
+          {
+            "code": "0537",
+            "name": "嘉祥",
+            "pinyin": "jiaxiang",
+            "label": "jiaxiang0537"
+          },
+          {
+            "code": "0663",
+            "name": "揭东",
+            "pinyin": "jiedong",
+            "label": "jiedong0663"
+          },
+          {
+            "code": "0558",
+            "name": "界首",
+            "pinyin": "jieshou",
+            "label": "jieshou0558"
+          },
+          {
+            "code": "0663",
+            "name": "揭西",
+            "pinyin": "jiexi",
+            "label": "jiexi0663"
+          },
+          {
+            "code": "0532",
+            "name": "即墨",
+            "pinyin": "jimo",
+            "label": "jimo0532"
+          },
+          {
+            "code": "0795",
+            "name": "靖安",
+            "pinyin": "jingan",
+            "label": "jingan0795"
+          },
+          {
+            "code": "0563",
+            "name": "旌德",
+            "pinyin": "jingde",
+            "label": "jingde0563"
+          },
+          {
+            "code": "0796",
+            "name": "井冈山",
+            "pinyin": "jinggangshan",
+            "label": "jinggangshan0796"
+          },
+          {
+            "code": "0523",
+            "name": "靖江",
+            "pinyin": "jingjiang",
+            "label": "jingjiang0523"
+          },
+          {
+            "code": "0578",
+            "name": "景宁",
+            "pinyin": "jingning",
+            "label": "jingning0578"
+          },
+          {
+            "code": "0563",
+            "name": "泾县",
+            "pinyin": "jingxian",
+            "label": "jingxian0563"
+          },
+          {
+            "code": "0311",
+            "name": "井陉",
+            "pinyin": "jingxing",
+            "label": "jingxing0311"
+          },
+          {
+            "code": "0517",
+            "name": "金湖",
+            "pinyin": "jinhu",
+            "label": "jinhu0517"
+          },
+          {
+            "code": "0595",
+            "name": "晋江",
+            "pinyin": "jinjiang",
+            "label": "jinjiang0595"
+          },
+          {
+            "code": "0595",
+            "name": "金门",
+            "pinyin": "jinmen",
+            "label": "jinmen0595"
+          },
+          {
+            "code": "0871",
+            "name": "晋宁",
+            "pinyin": "jinning",
+            "label": "jinning0871"
+          },
+          {
+            "code": "0519",
+            "name": "金坛",
+            "pinyin": "jintan",
+            "label": "jintan0519"
+          },
+          {
+            "code": "028",
+            "name": "金堂",
+            "pinyin": "jintang",
+            "label": "jintang028"
+          },
+          {
+            "code": "0791",
+            "name": "进贤",
+            "pinyin": "jinxian",
+            "label": "jinxian0791"
+          },
+          {
+            "code": "0794",
+            "name": "金溪",
+            "pinyin": "jinxi",
+            "label": "jinxi0794"
+          },
+          {
+            "code": "0537",
+            "name": "金乡",
+            "pinyin": "jinxiang",
+            "label": "jinxiang0537"
+          },
+          {
+            "code": "0578",
+            "name": "缙云",
+            "pinyin": "jinyun",
+            "label": "jinyun0578"
+          },
+          {
+            "code": "0564",
+            "name": "金寨",
+            "pinyin": "jinzhai",
+            "label": "jinzhai0564"
+          },
+          {
+            "code": "0311",
+            "name": "晋州",
+            "pinyin": "jinzhou",
+            "label": "jinzhou0311"
+          },
+          {
+            "code": "0796",
+            "name": "吉水",
+            "pinyin": "jishui",
+            "label": "jishui0796"
+          },
+          {
+            "code": "0792",
+            "name": "九江",
+            "pinyin": "jiujiang",
+            "label": "jiujiang0792"
+          },
+          {
+            "code": "0431",
+            "name": "九台",
+            "pinyin": "jiutai",
+            "label": "jiutai0431"
+          },
+          {
+            "code": "0563",
+            "name": "绩溪",
+            "pinyin": "jixi",
+            "label": "jixi0563"
+          },
+          {
+            "code": "0531",
+            "name": "济阳",
+            "pinyin": "jiyang",
+            "label": "jiyang0531"
+          },
+          {
+            "code": "0391",
+            "name": "济源",
+            "pinyin": "jiyuan",
+            "label": "jiyuan0391"
+          },
+          {
+            "code": "0530",
+            "name": "鄄城",
+            "pinyin": "juancheng",
+            "label": "juancheng0530"
+          },
+          {
+            "code": "0539",
+            "name": "莒南",
+            "pinyin": "junan",
+            "label": "junan0539"
+          },
+          {
+            "code": "0511",
+            "name": "句容",
+            "pinyin": "jurong",
+            "label": "jurong0511"
+          },
+          {
+            "code": "0633",
+            "name": "莒县",
+            "pinyin": "juxian",
+            "label": "juxian0633"
+          },
+          {
+            "code": "0530",
+            "name": "巨野",
+            "pinyin": "juye",
+            "label": "juye0530"
+          }
+        ]
+      },
+      {
+        "initial": "k",
+        "list": [
+          {
+            "code": "0378",
+            "name": "开封",
+            "pinyin": "kaifeng",
+            "label": "kaifeng0378"
+          },
+          {
+            "code": "0871",
+            "name": "昆明",
+            "pinyin": "kunming",
+            "label": "kunming0871"
+          },
+          {
+            "code": "0998",
+            "name": "喀什地",
+            "pinyin": "kashidi",
+            "label": "kashidi0998"
+          },
+          {
+            "code": "0990",
+            "name": "克拉玛依",
+            "pinyin": "kelamayi",
+            "label": "kelamayi0990"
+          },
+          {
+            "code": "0908",
+            "name": "克孜勒",
+            "pinyin": "kezile",
+            "label": "kezile0908"
+          },
+          {
+            "code": "0570",
+            "name": "开化",
+            "pinyin": "kaihua",
+            "label": "kaihua0570"
+          },
+          {
+            "code": "0750",
+            "name": "开平",
+            "pinyin": "kaiping",
+            "label": "kaiping0750"
+          },
+          {
+            "code": "023",
+            "name": "开县",
+            "pinyin": "kaixian",
+            "label": "kaixian023"
+          },
+          {
+            "code": "0851",
+            "name": "开阳",
+            "pinyin": "kaiyang",
+            "label": "kaiyang0851"
+          },
+          {
+            "code": "024",
+            "name": "康平",
+            "pinyin": "kangping",
+            "label": "kangping024"
+          },
+          {
+            "code": "0546",
+            "name": "垦利",
+            "pinyin": "kenli",
+            "label": "kenli0546"
+          },
+          {
+            "code": "0512",
+            "name": "昆山",
+            "pinyin": "kunshan",
+            "label": "kunshan0512"
+          }
+        ]
+      },
+      {
+        "initial": "l",
+        "list": [
+          {
+            "code": "0772",
+            "name": "来宾",
+            "pinyin": "laibin",
+            "label": "laibin0772"
+          },
+          {
+            "code": "0931",
+            "name": "兰州",
+            "pinyin": "lanzhou",
+            "label": "lanzhou0931"
+          },
+          {
+            "code": "0772",
+            "name": "柳州",
+            "pinyin": "liuzhou",
+            "label": "liuzhou0772"
+          },
+          {
+            "code": "0379",
+            "name": "洛阳",
+            "pinyin": "luoyang",
+            "label": "luoyang0379"
+          },
+          {
+            "code": "0634",
+            "name": "莱芜",
+            "pinyin": "laiwu",
+            "label": "laiwu0634"
+          },
+          {
+            "code": "0316",
+            "name": "廊坊",
+            "pinyin": "langfang",
+            "label": "langfang0316"
+          },
+          {
+            "code": "0891",
+            "name": "拉萨",
+            "pinyin": "lasa",
+            "label": "lasa0891"
+          },
+          {
+            "code": "0833",
+            "name": "乐山",
+            "pinyin": "leshan",
+            "label": "leshan0833"
+          },
+          {
+            "code": "0834",
+            "name": "凉山",
+            "pinyin": "liangshan",
+            "label": "liangshan0834"
+          },
+          {
+            "code": "0518",
+            "name": "连云港",
+            "pinyin": "lianyungang",
+            "label": "lianyungang0518"
+          },
+          {
+            "code": "0635",
+            "name": "聊城",
+            "pinyin": "liaocheng",
+            "label": "liaocheng0635"
+          },
+          {
+            "code": "0419",
+            "name": "辽阳",
+            "pinyin": "liaoyang",
+            "label": "liaoyang0419"
+          },
+          {
+            "code": "0437",
+            "name": "辽源",
+            "pinyin": "liaoyuan",
+            "label": "liaoyuan0437"
+          },
+          {
+            "code": "0888",
+            "name": "丽江",
+            "pinyin": "lijiang",
+            "label": "lijiang0888"
+          },
+          {
+            "code": "0883",
+            "name": "临沧",
+            "pinyin": "lincang",
+            "label": "lincang0883"
+          },
+          {
+            "code": "0357",
+            "name": "临汾",
+            "pinyin": "linfen",
+            "label": "linfen0357"
+          },
+          {
+            "code": "0930",
+            "name": "临夏",
+            "pinyin": "linxia",
+            "label": "linxia0930"
+          },
+          {
+            "code": "0539",
+            "name": "临沂",
+            "pinyin": "linyi",
+            "label": "linyi0539"
+          },
+          {
+            "code": "0894",
+            "name": "林芝",
+            "pinyin": "linzhi",
+            "label": "linzhi0894"
+          },
+          {
+            "code": "0578",
+            "name": "丽水",
+            "pinyin": "lishui",
+            "label": "lishui0578"
+          },
+          {
+            "code": "0564",
+            "name": "六安",
+            "pinyin": "liuan",
+            "label": "liuan0564"
+          },
+          {
+            "code": "0858",
+            "name": "六盘水",
+            "pinyin": "liupanshui",
+            "label": "liupanshui0858"
+          },
+          {
+            "code": "0939",
+            "name": "陇南",
+            "pinyin": "longnan",
+            "label": "longnan0939"
+          },
+          {
+            "code": "0597",
+            "name": "龙岩",
+            "pinyin": "longyan",
+            "label": "longyan0597"
+          },
+          {
+            "code": "0738",
+            "name": "娄底",
+            "pinyin": "loudi",
+            "label": "loudi0738"
+          },
+          {
+            "code": "0395",
+            "name": "漯河",
+            "pinyin": "luohe",
+            "label": "luohe0395"
+          },
+          {
+            "code": "0830",
+            "name": "泸州",
+            "pinyin": "luzhou",
+            "label": "luzhou0830"
+          },
+          {
+            "code": "0358",
+            "name": "吕梁",
+            "pinyin": "lvliang",
+            "label": "lvliang0358"
+          },
+          {
+            "code": "0550",
+            "name": "来安",
+            "pinyin": "laian",
+            "label": "laian0550"
+          },
+          {
+            "code": "0532",
+            "name": "莱西",
+            "pinyin": "laixi",
+            "label": "laixi0532"
+          },
+          {
+            "code": "0535",
+            "name": "莱阳",
+            "pinyin": "laiyang",
+            "label": "laiyang0535"
+          },
+          {
+            "code": "0535",
+            "name": "莱州",
+            "pinyin": "laizhou",
+            "label": "laizhou0535"
+          },
+          {
+            "code": "0563",
+            "name": "郎溪",
+            "pinyin": "langxi",
+            "label": "langxi0563"
+          },
+          {
+            "code": "029",
+            "name": "蓝田",
+            "pinyin": "lantian",
+            "label": "lantian029"
+          },
+          {
+            "code": "0579",
+            "name": "兰溪",
+            "pinyin": "lanxi",
+            "label": "lanxi0579"
+          },
+          {
+            "code": "0794",
+            "name": "乐安",
+            "pinyin": "lean",
+            "label": "lean0794"
+          },
+          {
+            "code": "0751",
+            "name": "乐昌",
+            "pinyin": "lechang",
+            "label": "lechang0751"
+          },
+          {
+            "code": "0759",
+            "name": "雷州",
+            "pinyin": "leizhou",
+            "label": "leizhou0759"
+          },
+          {
+            "code": "0534",
+            "name": "乐陵",
+            "pinyin": "leling",
+            "label": "leling0534"
+          },
+          {
+            "code": "0798",
+            "name": "乐平",
+            "pinyin": "leping",
+            "label": "leping0798"
+          },
+          {
+            "code": "0577",
+            "name": "乐清",
+            "pinyin": "leqing",
+            "label": "leqing0577"
+          },
+          {
+            "code": "0315",
+            "name": "乐亭",
+            "pinyin": "leting",
+            "label": "leting0315"
+          },
+          {
+            "code": "0597",
+            "name": "连城",
+            "pinyin": "liancheng",
+            "label": "liancheng0597"
+          },
+          {
+            "code": "023",
+            "name": "梁平",
+            "pinyin": "liangping",
+            "label": "liangping023"
+          },
+          {
+            "code": "0537",
+            "name": "梁山",
+            "pinyin": "liangshan",
+            "label": "liangshan0537"
+          },
+          {
+            "code": "0799",
+            "name": "莲花",
+            "pinyin": "lianhua",
+            "label": "lianhua0799"
+          },
+          {
+            "code": "0591",
+            "name": "连江",
+            "pinyin": "lianjiang",
+            "label": "lianjiang0591"
+          },
+          {
+            "code": "0759",
+            "name": "廉江",
+            "pinyin": "lianjiang",
+            "label": "lianjiang0759"
+          },
+          {
+            "code": "0763",
+            "name": "连南",
+            "pinyin": "liannan",
+            "label": "liannan0763"
+          },
+          {
+            "code": "0762",
+            "name": "连平",
+            "pinyin": "lianping",
+            "label": "lianping0762"
+          },
+          {
+            "code": "0763",
+            "name": "连山",
+            "pinyin": "lianshan",
+            "label": "lianshan0763"
+          },
+          {
+            "code": "0517",
+            "name": "涟水",
+            "pinyin": "lianshui",
+            "label": "lianshui0517"
+          },
+          {
+            "code": "0763",
+            "name": "连州",
+            "pinyin": "lianzhou",
+            "label": "lianzhou0763"
+          },
+          {
+            "code": "024",
+            "name": "辽中",
+            "pinyin": "liaozhong",
+            "label": "liaozhong024"
+          },
+          {
+            "code": "0794",
+            "name": "黎川",
+            "pinyin": "lichuan",
+            "label": "lichuan0794"
+          },
+          {
+            "code": "0546",
+            "name": "利津",
+            "pinyin": "lijin",
+            "label": "lijin0546"
+          },
+          {
+            "code": "0571",
+            "name": "临安",
+            "pinyin": "linan",
+            "label": "linan0571"
+          },
+          {
+            "code": "0557",
+            "name": "灵璧",
+            "pinyin": "lingbi",
+            "label": "lingbi0557"
+          },
+          {
+            "code": "0311",
+            "name": "灵寿",
+            "pinyin": "lingshou",
+            "label": "lingshou0311"
+          },
+          {
+            "code": "0534",
+            "name": "陵县",
+            "pinyin": "lingxian",
+            "label": "lingxian0534"
+          },
+          {
+            "code": "0576",
+            "name": "临海",
+            "pinyin": "linhai",
+            "label": "linhai0576"
+          },
+          {
+            "code": "0635",
+            "name": "临清",
+            "pinyin": "linqing",
+            "label": "linqing0635"
+          },
+          {
+            "code": "0558",
+            "name": "临泉",
+            "pinyin": "linquan",
+            "label": "linquan0558"
+          },
+          {
+            "code": "0536",
+            "name": "临朐",
+            "pinyin": "linqu",
+            "label": "linqu0536"
+          },
+          {
+            "code": "0539",
+            "name": "临沭",
+            "pinyin": "linshu",
+            "label": "linshu0539"
+          },
+          {
+            "code": "0534",
+            "name": "临邑",
+            "pinyin": "linyi",
+            "label": "linyi0534"
+          },
+          {
+            "code": "025",
+            "name": "溧水",
+            "pinyin": "lishui",
+            "label": "lishui025"
+          },
+          {
+            "code": "0772",
+            "name": "柳城",
+            "pinyin": "liucheng",
+            "label": "liucheng0772"
+          },
+          {
+            "code": "0772",
+            "name": "柳江",
+            "pinyin": "liujiang",
+            "label": "liujiang0772"
+          },
+          {
+            "code": "0731",
+            "name": "浏阳",
+            "pinyin": "liuyang",
+            "label": "liuyang0731"
+          },
+          {
+            "code": "0558",
+            "name": "利辛",
+            "pinyin": "lixin",
+            "label": "lixin0558"
+          },
+          {
+            "code": "0519",
+            "name": "溧阳",
+            "pinyin": "liyang",
+            "label": "liyang0519"
+          },
+          {
+            "code": "0771",
+            "name": "隆安",
+            "pinyin": "longan",
+            "label": "longan0771"
+          },
+          {
+            "code": "0762",
+            "name": "龙川",
+            "pinyin": "longchuan",
+            "label": "longchuan0762"
+          },
+          {
+            "code": "0596",
+            "name": "龙海",
+            "pinyin": "longhai",
+            "label": "longhai0596"
+          },
+          {
+            "code": "0535",
+            "name": "龙口",
+            "pinyin": "longkou",
+            "label": "longkou0535"
+          },
+          {
+            "code": "0752",
+            "name": "龙门",
+            "pinyin": "longmen",
+            "label": "longmen0752"
+          },
+          {
+            "code": "0797",
+            "name": "龙南",
+            "pinyin": "longnan",
+            "label": "longnan0797"
+          },
+          {
+            "code": "0578",
+            "name": "龙泉",
+            "pinyin": "longquan",
+            "label": "longquan0578"
+          },
+          {
+            "code": "0570",
+            "name": "龙游",
+            "pinyin": "longyou",
+            "label": "longyou0570"
+          },
+          {
+            "code": "0311",
+            "name": "栾城",
+            "pinyin": "luancheng",
+            "label": "luancheng0311"
+          },
+          {
+            "code": "0379",
+            "name": "栾川",
+            "pinyin": "luanchuan",
+            "label": "luanchuan0379"
+          },
+          {
+            "code": "0315",
+            "name": "滦南",
+            "pinyin": "luannan",
+            "label": "luannan0315"
+          },
+          {
+            "code": "0315",
+            "name": "滦县",
+            "pinyin": "luanxian",
+            "label": "luanxian0315"
+          },
+          {
+            "code": "0660",
+            "name": "陆丰",
+            "pinyin": "lufeng",
+            "label": "lufeng0660"
+          },
+          {
+            "code": "0660",
+            "name": "陆河",
+            "pinyin": "luhe",
+            "label": "luhe0660"
+          },
+          {
+            "code": "0565",
+            "name": "庐江",
+            "pinyin": "lujiang",
+            "label": "lujiang0565"
+          },
+          {
+            "code": "0766",
+            "name": "罗定",
+            "pinyin": "luoding",
+            "label": "luoding0766"
+          },
+          {
+            "code": "0379",
+            "name": "洛宁",
+            "pinyin": "luoning",
+            "label": "luoning0379"
+          },
+          {
+            "code": "0591",
+            "name": "罗源",
+            "pinyin": "luoyuan",
+            "label": "luoyuan0591"
+          },
+          {
+            "code": "0311",
+            "name": "鹿泉",
+            "pinyin": "luquan",
+            "label": "luquan0311"
+          },
+          {
+            "code": "0871",
+            "name": "禄劝",
+            "pinyin": "luquan",
+            "label": "luquan0871"
+          },
+          {
+            "code": "0799",
+            "name": "芦溪",
+            "pinyin": "luxi",
+            "label": "luxi0799"
+          },
+          {
+            "code": "0772",
+            "name": "鹿寨",
+            "pinyin": "luzhai",
+            "label": "luzhai0772"
+          }
+        ]
+      },
+      {
+        "initial": "m",
+        "list": [
+          {
+            "code": "0555",
+            "name": "马鞍山",
+            "pinyin": "maanshan",
+            "label": "maanshan0555"
+          },
+          {
+            "code": "0668",
+            "name": "茂名",
+            "pinyin": "maoming",
+            "label": "maoming0668"
+          },
+          {
+            "code": "028",
+            "name": "眉山",
+            "pinyin": "meishan",
+            "label": "meishan028"
+          },
+          {
+            "code": "0753",
+            "name": "梅州",
+            "pinyin": "meizhou",
+            "label": "meizhou0753"
+          },
+          {
+            "code": "0816",
+            "name": "绵阳",
+            "pinyin": "mianyang",
+            "label": "mianyang0816"
+          },
+          {
+            "code": "0453",
+            "name": "牡丹江",
+            "pinyin": "mudanjiang",
+            "label": "mudanjiang0453"
+          },
+          {
+            "code": "0771",
+            "name": "马山",
+            "pinyin": "mashan",
+            "label": "mashan0771"
+          },
+          {
+            "code": "0753",
+            "name": "梅县",
+            "pinyin": "meixian",
+            "label": "meixian0753"
+          },
+          {
+            "code": "0558",
+            "name": "蒙城",
+            "pinyin": "mengcheng",
+            "label": "mengcheng0558"
+          },
+          {
+            "code": "0379",
+            "name": "孟津",
+            "pinyin": "mengjin",
+            "label": "mengjin0379"
+          },
+          {
+            "code": "0539",
+            "name": "蒙阴",
+            "pinyin": "mengyin",
+            "label": "mengyin0539"
+          },
+          {
+            "code": "0391",
+            "name": "孟州",
+            "pinyin": "mengzhou",
+            "label": "mengzhou0391"
+          },
+          {
+            "code": "0550",
+            "name": "明光",
+            "pinyin": "mingguang",
+            "label": "mingguang0550"
+          },
+          {
+            "code": "0598",
+            "name": "明溪",
+            "pinyin": "mingxi",
+            "label": "mingxi0598"
+          },
+          {
+            "code": "0591",
+            "name": "闽侯",
+            "pinyin": "minhou",
+            "label": "minhou0591"
+          },
+          {
+            "code": "0591",
+            "name": "闽清",
+            "pinyin": "minqing",
+            "label": "minqing0591"
+          },
+          {
+            "code": "0451",
+            "name": "木兰",
+            "pinyin": "mulan",
+            "label": "mulan0451"
+          }
+        ]
+      },
+      {
+        "initial": "n",
+        "list": [
+          {
+            "code": "0817",
+            "name": "南充",
+            "pinyin": "nanchong",
+            "label": "nanchong0817"
+          },
+          {
+            "code": "0791",
+            "name": "南昌",
+            "pinyin": "nanchang",
+            "label": "nanchang0791"
+          },
+          {
+            "code": "025",
+            "name": "南京",
+            "pinyin": "nanjing",
+            "label": "nanjing025"
+          },
+          {
+            "code": "0771",
+            "name": "南宁",
+            "pinyin": "nanning",
+            "label": "nanning0771"
+          },
+          {
+            "code": "0513",
+            "name": "南通",
+            "pinyin": "nantong",
+            "label": "nantong0513"
+          },
+          {
+            "code": "0574",
+            "name": "宁波",
+            "pinyin": "ningbo",
+            "label": "ningbo0574"
+          },
+          {
+            "code": "0599",
+            "name": "南平",
+            "pinyin": "nanping",
+            "label": "nanping0599"
+          },
+          {
+            "code": "0377",
+            "name": "南阳",
+            "pinyin": "nanyang",
+            "label": "nanyang0377"
+          },
+          {
+            "code": "0896",
+            "name": "那曲",
+            "pinyin": "naqu",
+            "label": "naqu0896"
+          },
+          {
+            "code": "0832",
+            "name": "内江",
+            "pinyin": "neijiang",
+            "label": "neijiang0832"
+          },
+          {
+            "code": "0593",
+            "name": "宁德",
+            "pinyin": "ningde",
+            "label": "ningde0593"
+          },
+          {
+            "code": "0886",
+            "name": "怒江",
+            "pinyin": "nujiang",
+            "label": "nujiang0886"
+          },
+          {
+            "code": "0595",
+            "name": "南安",
+            "pinyin": "nanan",
+            "label": "nanan0595"
+          },
+          {
+            "code": "0754",
+            "name": "南澳",
+            "pinyin": "nanao",
+            "label": "nanao0754"
+          },
+          {
+            "code": "0794",
+            "name": "南城",
+            "pinyin": "nancheng",
+            "label": "nancheng0794"
+          },
+          {
+            "code": "023",
+            "name": "南川",
+            "pinyin": "nanchuan",
+            "label": "nanchuan023"
+          },
+          {
+            "code": "0794",
+            "name": "南丰",
+            "pinyin": "nanfeng",
+            "label": "nanfeng0794"
+          },
+          {
+            "code": "0596",
+            "name": "南靖",
+            "pinyin": "nanjing",
+            "label": "nanjing0596"
+          },
+          {
+            "code": "0797",
+            "name": "南康",
+            "pinyin": "nankang",
+            "label": "nankang0797"
+          },
+          {
+            "code": "0553",
+            "name": "南陵",
+            "pinyin": "nanling",
+            "label": "nanling0553"
+          },
+          {
+            "code": "0751",
+            "name": "南雄",
+            "pinyin": "nanxiong",
+            "label": "nanxiong0751"
+          },
+          {
+            "code": "0797",
+            "name": "宁都",
+            "pinyin": "ningdu",
+            "label": "ningdu0797"
+          },
+          {
+            "code": "0563",
+            "name": "宁国",
+            "pinyin": "ningguo",
+            "label": "ningguo0563"
+          },
+          {
+            "code": "0574",
+            "name": "宁海",
+            "pinyin": "ninghai",
+            "label": "ninghai0574"
+          },
+          {
+            "code": "0598",
+            "name": "宁化",
+            "pinyin": "ninghua",
+            "label": "ninghua0598"
+          },
+          {
+            "code": "0534",
+            "name": "宁津",
+            "pinyin": "ningjin",
+            "label": "ningjin0534"
+          },
+          {
+            "code": "0731",
+            "name": "宁乡",
+            "pinyin": "ningxiang",
+            "label": "ningxiang0731"
+          },
+          {
+            "code": "0538",
+            "name": "宁阳",
+            "pinyin": "ningyang",
+            "label": "ningyang0538"
+          },
+          {
+            "code": "0431",
+            "name": "农安",
+            "pinyin": "nongan",
+            "label": "nongan0431"
+          }
+        ]
+      },
+      {
+        "initial": "p",
+        "list": [
+          {
+            "code": "0427",
+            "name": "盘锦",
+            "pinyin": "panjin",
+            "label": "panjin0427"
+          },
+          {
+            "code": "0812",
+            "name": "攀枝花",
+            "pinyin": "panzhihua",
+            "label": "panzhihua0812"
+          },
+          {
+            "code": "0375",
+            "name": "平顶山",
+            "pinyin": "pingdingshan",
+            "label": "pingdingshan0375"
+          },
+          {
+            "code": "0933",
+            "name": "平凉",
+            "pinyin": "pingliang",
+            "label": "pingliang0933"
+          },
+          {
+            "code": "0799",
+            "name": "萍乡",
+            "pinyin": "pingxiang",
+            "label": "pingxiang0799"
+          },
+          {
+            "code": "0879",
+            "name": "普洱",
+            "pinyin": "puer",
+            "label": "puer0879"
+          },
+          {
+            "code": "0594",
+            "name": "莆田",
+            "pinyin": "putian",
+            "label": "putian0594"
+          },
+          {
+            "code": "0393",
+            "name": "濮阳",
+            "pinyin": "puyang",
+            "label": "puyang0393"
+          },
+          {
+            "code": "0579",
+            "name": "磐安",
+            "pinyin": "panan",
+            "label": "panan0579"
+          },
+          {
+            "code": "0423",
+            "name": "磐石",
+            "pinyin": "panshi",
+            "label": "panshi0423"
+          },
+          {
+            "code": "0516",
+            "name": "沛县",
+            "pinyin": "peixian",
+            "label": "peixian0516"
+          },
+          {
+            "code": "0535",
+            "name": "蓬莱",
+            "pinyin": "penglai",
+            "label": "penglai0535"
+          },
+          {
+            "code": "023",
+            "name": "彭水",
+            "pinyin": "pengshui",
+            "label": "pengshui023"
+          },
+          {
+            "code": "0792",
+            "name": "彭泽",
+            "pinyin": "pengze",
+            "label": "pengze0792"
+          },
+          {
+            "code": "028",
+            "name": "彭州",
+            "pinyin": "pengzhou",
+            "label": "pengzhou028"
+          },
+          {
+            "code": "0532",
+            "name": "平度",
+            "pinyin": "pingdu",
+            "label": "pingdu0532"
+          },
+          {
+            "code": "0596",
+            "name": "平和",
+            "pinyin": "pinghe",
+            "label": "pinghe0596"
+          },
+          {
+            "code": "0573",
+            "name": "平湖",
+            "pinyin": "pinghu",
+            "label": "pinghu0573"
+          },
+          {
+            "code": "0593",
+            "name": "屏南",
+            "pinyin": "pingnan",
+            "label": "pingnan0593"
+          },
+          {
+            "code": "0311",
+            "name": "平山",
+            "pinyin": "pingshan",
+            "label": "pingshan0311"
+          },
+          {
+            "code": "0591",
+            "name": "平潭",
+            "pinyin": "pingtan",
+            "label": "pingtan0591"
+          },
+          {
+            "code": "0577",
+            "name": "平阳",
+            "pinyin": "pingyang",
+            "label": "pingyang0577"
+          },
+          {
+            "code": "0531",
+            "name": "平阴",
+            "pinyin": "pingyin",
+            "label": "pingyin0531"
+          },
+          {
+            "code": "0539",
+            "name": "平邑",
+            "pinyin": "pingyi",
+            "label": "pingyi0539"
+          },
+          {
+            "code": "0534",
+            "name": "平原",
+            "pinyin": "pingyuan",
+            "label": "pingyuan0534"
+          },
+          {
+            "code": "0753",
+            "name": "平远",
+            "pinyin": "pingyuan",
+            "label": "pingyuan0753"
+          },
+          {
+            "code": "028",
+            "name": "郫县",
+            "pinyin": "pixian",
+            "label": "pixian028"
+          },
+          {
+            "code": "0516",
+            "name": "邳州",
+            "pinyin": "pizhou",
+            "label": "pizhou0516"
+          },
+          {
+            "code": "0793",
+            "name": "鄱阳",
+            "pinyin": "poyang",
+            "label": "poyang0793"
+          },
+          {
+            "code": "0599",
+            "name": "浦城",
+            "pinyin": "pucheng",
+            "label": "pucheng0599"
+          },
+          {
+            "code": "0579",
+            "name": "浦江",
+            "pinyin": "pujiang",
+            "label": "pujiang0579"
+          },
+          {
+            "code": "028",
+            "name": "蒲江",
+            "pinyin": "pujiang",
+            "label": "pujiang028"
+          },
+          {
+            "code": "0411",
+            "name": "普兰店",
+            "pinyin": "pulandian",
+            "label": "pulandian0411"
+          },
+          {
+            "code": "0663",
+            "name": "普宁",
+            "pinyin": "puning",
+            "label": "puning0663"
+          }
+        ]
+      },
+      {
+        "initial": "q",
+        "list": [
+          {
+            "code": "0855",
+            "name": "黔东",
+            "pinyin": "qiandong",
+            "label": "qiandong0855"
+          },
+          {
+            "code": "0532",
+            "name": "青岛",
+            "pinyin": "qingdao",
+            "label": "qingdao0532"
+          },
+          {
+            "code": "0595",
+            "name": "泉州",
+            "pinyin": "quanzhou",
+            "label": "quanzhou0595"
+          },
+          {
+            "code": "0854",
+            "name": "黔南",
+            "pinyin": "qiannan",
+            "label": "qiannan0854"
+          },
+          {
+            "code": "0859",
+            "name": "黔西南",
+            "pinyin": "qianxinan",
+            "label": "qianxinan0859"
+          },
+          {
+            "code": "0934",
+            "name": "庆阳",
+            "pinyin": "qingyang",
+            "label": "qingyang0934"
+          },
+          {
+            "code": "0763",
+            "name": "清远",
+            "pinyin": "qingyuan",
+            "label": "qingyuan0763"
+          },
+          {
+            "code": "0335",
+            "name": "秦皇岛",
+            "pinyin": "qinhuangdao",
+            "label": "qinhuangdao0335"
+          },
+          {
+            "code": "0777",
+            "name": "钦州",
+            "pinyin": "qinzhou",
+            "label": "qinzhou0777"
+          },
+          {
+            "code": "0452",
+            "name": "齐齐哈尔",
+            "pinyin": "qiqihaer",
+            "label": "qiqihaer0452"
+          },
+          {
+            "code": "0464",
+            "name": "七台河",
+            "pinyin": "qitaihe",
+            "label": "qitaihe0464"
+          },
+          {
+            "code": "0874",
+            "name": "曲靖",
+            "pinyin": "qujing",
+            "label": "qujing0874"
+          },
+          {
+            "code": "0570",
+            "name": "衢州",
+            "pinyin": "quzhou",
+            "label": "quzhou0570"
+          },
+          {
+            "code": "0315",
+            "name": "迁安",
+            "pinyin": "qianan",
+            "label": "qianan0315"
+          },
+          {
+            "code": "0556",
+            "name": "潜山",
+            "pinyin": "qianshan",
+            "label": "qianshan0556"
+          },
+          {
+            "code": "0793",
+            "name": "铅山",
+            "pinyin": "qianshan",
+            "label": "qianshan0793"
+          },
+          {
+            "code": "0315",
+            "name": "迁西",
+            "pinyin": "qianxi",
+            "label": "qianxi0315"
+          },
+          {
+            "code": "0513",
+            "name": "启东",
+            "pinyin": "qidong",
+            "label": "qidong0513"
+          },
+          {
+            "code": "0534",
+            "name": "齐河",
+            "pinyin": "qihe",
+            "label": "qihe0534"
+          },
+          {
+            "code": "023",
+            "name": "綦江",
+            "pinyin": "qijiang",
+            "label": "qijiang023"
+          },
+          {
+            "code": "0559",
+            "name": "祁门",
+            "pinyin": "qimen",
+            "label": "qimen0559"
+          },
+          {
+            "code": "0598",
+            "name": "清流",
+            "pinyin": "qingliu",
+            "label": "qingliu0598"
+          },
+          {
+            "code": "0578",
+            "name": "青田",
+            "pinyin": "qingtian",
+            "label": "qingtian0578"
+          },
+          {
+            "code": "0763",
+            "name": "清新",
+            "pinyin": "qingxin",
+            "label": "qingxin0763"
+          },
+          {
+            "code": "0566",
+            "name": "青阳",
+            "pinyin": "qingyang",
+            "label": "qingyang0566"
+          },
+          {
+            "code": "0578",
+            "name": "庆元",
+            "pinyin": "qingyuan",
+            "label": "qingyuan0578"
+          },
+          {
+            "code": "0534",
+            "name": "庆云",
+            "pinyin": "qingyun",
+            "label": "qingyun0534"
+          },
+          {
+            "code": "0851",
+            "name": "清镇",
+            "pinyin": "qingzhen",
+            "label": "qingzhen0851"
+          },
+          {
+            "code": "0536",
+            "name": "青州",
+            "pinyin": "qingzhou",
+            "label": "qingzhou0536"
+          },
+          {
+            "code": "0391",
+            "name": "沁阳",
+            "pinyin": "qinyang",
+            "label": "qinyang0391"
+          },
+          {
+            "code": "028",
+            "name": "邛崃",
+            "pinyin": "qionglai",
+            "label": "qionglai028"
+          },
+          {
+            "code": "0535",
+            "name": "栖霞",
+            "pinyin": "qixia",
+            "label": "qixia0535"
+          },
+          {
+            "code": "0550",
+            "name": "全椒",
+            "pinyin": "quanjiao",
+            "label": "quanjiao0550"
+          },
+          {
+            "code": "0797",
+            "name": "全南",
+            "pinyin": "quannan",
+            "label": "quannan0797"
+          },
+          {
+            "code": "0537",
+            "name": "曲阜",
+            "pinyin": "qufu",
+            "label": "qufu0537"
+          },
+          {
+            "code": "0751",
+            "name": "曲江",
+            "pinyin": "qujiang",
+            "label": "qujiang0751"
+          }
+        ]
+      },
+      {
+        "initial": "r",
+        "list": [
+          {
+            "code": "0892",
+            "name": "日喀则",
+            "pinyin": "rikaze",
+            "label": "rikaze0892"
+          },
+          {
+            "code": "0633",
+            "name": "日照",
+            "pinyin": "rizhao",
+            "label": "rizhao0633"
+          },
+          {
+            "code": "0768",
+            "name": "饶平",
+            "pinyin": "raoping",
+            "label": "raoping0768"
+          },
+          {
+            "code": "0751",
+            "name": "仁化",
+            "pinyin": "renhua",
+            "label": "renhua0751"
+          },
+          {
+            "code": "0772",
+            "name": "融安",
+            "pinyin": "rongan",
+            "label": "rongan0772"
+          },
+          {
+            "code": "023",
+            "name": "荣昌",
+            "pinyin": "rongchang",
+            "label": "rongchang023"
+          },
+          {
+            "code": "0631",
+            "name": "荣成",
+            "pinyin": "rongcheng",
+            "label": "rongcheng0631"
+          },
+          {
+            "code": "0772",
+            "name": "融水",
+            "pinyin": "rongshui",
+            "label": "rongshui0772"
+          },
+          {
+            "code": "0513",
+            "name": "如东",
+            "pinyin": "rudong",
+            "label": "rudong0513"
+          },
+          {
+            "code": "0513",
+            "name": "如皋",
+            "pinyin": "rugao",
+            "label": "rugao0513"
+          },
+          {
+            "code": "0577",
+            "name": "瑞安",
+            "pinyin": "ruian",
+            "label": "ruian0577"
+          },
+          {
+            "code": "0792",
+            "name": "瑞昌",
+            "pinyin": "ruichang",
+            "label": "ruichang0792"
+          },
+          {
+            "code": "0797",
+            "name": "瑞金",
+            "pinyin": "ruijin",
+            "label": "ruijin0797"
+          },
+          {
+            "code": "0631",
+            "name": "乳山",
+            "pinyin": "rushan",
+            "label": "rushan0631"
+          },
+          {
+            "code": "0379",
+            "name": "汝阳",
+            "pinyin": "ruyang",
+            "label": "ruyang0379"
+          },
+          {
+            "code": "0751",
+            "name": "乳源",
+            "pinyin": "ruyuan",
+            "label": "ruyuan0751"
+          }
+        ]
+      },
+      {
+        "initial": "s",
+        "list": [
+          {
+            "code": "0398",
+            "name": "三门峡",
+            "pinyin": "sanmenxia",
+            "label": "sanmenxia0398"
+          },
+          {
+            "code": "021",
+            "name": "上海",
+            "pinyin": "shanghai",
+            "label": "shanghai021"
+          },
+          {
+            "code": "024",
+            "name": "沈阳",
+            "pinyin": "shenyang",
+            "label": "shenyang024"
+          },
+          {
+            "code": "0755",
+            "name": "深圳",
+            "pinyin": "shenzhen",
+            "label": "shenzhen0755"
+          },
+          {
+            "code": "0311",
+            "name": "石家庄",
+            "pinyin": "shijiazhuang",
+            "label": "shijiazhuang0311"
+          },
+          {
+            "code": "0512",
+            "name": "苏州",
+            "pinyin": "suzhou",
+            "label": "suzhou0512"
+          },
+          {
+            "code": "0598",
+            "name": "三明",
+            "pinyin": "sanming",
+            "label": "sanming0598"
+          },
+          {
+            "code": "0899",
+            "name": "三亚",
+            "pinyin": "sanya",
+            "label": "sanya0899"
+          },
+          {
+            "code": "0914",
+            "name": "商洛",
+            "pinyin": "shangluo",
+            "label": "shangluo0914"
+          },
+          {
+            "code": "0370",
+            "name": "商丘",
+            "pinyin": "shangqiu",
+            "label": "shangqiu0370"
+          },
+          {
+            "code": "0793",
+            "name": "上饶",
+            "pinyin": "shangrao",
+            "label": "shangrao0793"
+          },
+          {
+            "code": "0893",
+            "name": "山南",
+            "pinyin": "shannan",
+            "label": "shannan0893"
+          },
+          {
+            "code": "0754",
+            "name": "汕头",
+            "pinyin": "shantou",
+            "label": "shantou0754"
+          },
+          {
+            "code": "0660",
+            "name": "汕尾",
+            "pinyin": "shanwei",
+            "label": "shanwei0660"
+          },
+          {
+            "code": "0751",
+            "name": "韶关",
+            "pinyin": "shaoguan",
+            "label": "shaoguan0751"
+          },
+          {
+            "code": "0575",
+            "name": "绍兴",
+            "pinyin": "shaoxing",
+            "label": "shaoxing0575"
+          },
+          {
+            "code": "0739",
+            "name": "邵阳",
+            "pinyin": "shaoyang",
+            "label": "shaoyang0739"
+          },
+          {
+            "code": "0719",
+            "name": "十堰",
+            "pinyin": "shiyan",
+            "label": "shiyan0719"
+          },
+          {
+            "code": "0952",
+            "name": "石嘴山",
+            "pinyin": "shizuishan",
+            "label": "shizuishan0952"
+          },
+          {
+            "code": "0469",
+            "name": "双鸭山",
+            "pinyin": "shuangyashan",
+            "label": "shuangyashan0469"
+          },
+          {
+            "code": "0349",
+            "name": "朔州",
+            "pinyin": "shuozhou",
+            "label": "shuozhou0349"
+          },
+          {
+            "code": "0434",
+            "name": "四平",
+            "pinyin": "siping",
+            "label": "siping0434"
+          },
+          {
+            "code": "0438",
+            "name": "松原",
+            "pinyin": "songyuan",
+            "label": "songyuan0438"
+          },
+          {
+            "code": "0455",
+            "name": "绥化",
+            "pinyin": "suihua",
+            "label": "suihua0455"
+          },
+          {
+            "code": "0825",
+            "name": "遂宁",
+            "pinyin": "suining",
+            "label": "suining0825"
+          },
+          {
+            "code": "0722",
+            "name": "随州",
+            "pinyin": "suizhou",
+            "label": "suizhou0722"
+          },
+          {
+            "code": "0527",
+            "name": "宿迁",
+            "pinyin": "suqian",
+            "label": "suqian0527"
+          },
+          {
+            "code": "0557",
+            "name": "宿州",
+            "pinyin": "suzhou",
+            "label": "suzhou0557"
+          },
+          {
+            "code": "0772",
+            "name": "三江",
+            "pinyin": "sanjiang",
+            "label": "sanjiang0772"
+          },
+          {
+            "code": "0576",
+            "name": "三门",
+            "pinyin": "sanmen",
+            "label": "sanmen0576"
+          },
+          {
+            "code": "0596",
+            "name": "诏安",
+            "pinyin": "saoan",
+            "label": "saoan0596"
+          },
+          {
+            "code": "0795",
+            "name": "上高",
+            "pinyin": "shanggao",
+            "label": "shanggao0795"
+          },
+          {
+            "code": "0597",
+            "name": "上杭",
+            "pinyin": "shanghang",
+            "label": "shanghang0597"
+          },
+          {
+            "code": "0531",
+            "name": "商河",
+            "pinyin": "shanghe",
+            "label": "shanghe0531"
+          },
+          {
+            "code": "0799",
+            "name": "上栗",
+            "pinyin": "shangli",
+            "label": "shangli0799"
+          },
+          {
+            "code": "0771",
+            "name": "上林",
+            "pinyin": "shanglin",
+            "label": "shanglin0771"
+          },
+          {
+            "code": "0793",
+            "name": "上饶",
+            "pinyin": "shangrao",
+            "label": "shangrao0793"
+          },
+          {
+            "code": "0797",
+            "name": "上犹",
+            "pinyin": "shangyou",
+            "label": "shangyou0797"
+          },
+          {
+            "code": "0575",
+            "name": "上虞",
+            "pinyin": "shangyu",
+            "label": "shangyu0575"
+          },
+          {
+            "code": "0451",
+            "name": "尚志",
+            "pinyin": "shangzhi",
+            "label": "shangzhi0451"
+          },
+          {
+            "code": "0599",
+            "name": "邵武",
+            "pinyin": "shaowu",
+            "label": "shaowu0599"
+          },
+          {
+            "code": "0575",
+            "name": "绍兴",
+            "pinyin": "shaoxing",
+            "label": "shaoxing0575"
+          },
+          {
+            "code": "0598",
+            "name": "沙县",
+            "pinyin": "shaxian",
+            "label": "shaxian0598"
+          },
+          {
+            "code": "0580",
+            "name": "嵊泗",
+            "pinyin": "shengsi",
+            "label": "shengsi0580"
+          },
+          {
+            "code": "0575",
+            "name": "嵊州",
+            "pinyin": "shengzhou",
+            "label": "shengzhou0575"
+          },
+          {
+            "code": "0635",
+            "name": "莘县",
+            "pinyin": "shenxian",
+            "label": "shenxian0635"
+          },
+          {
+            "code": "0311",
+            "name": "深泽",
+            "pinyin": "shenze",
+            "label": "shenze0311"
+          },
+          {
+            "code": "0559",
+            "name": "歙县",
+            "pinyin": "shexian",
+            "label": "shexian0559"
+          },
+          {
+            "code": "0515",
+            "name": "射阳",
+            "pinyin": "sheyang",
+            "label": "sheyang0515"
+          },
+          {
+            "code": "0797",
+            "name": "石城",
+            "pinyin": "shicheng",
+            "label": "shicheng0797"
+          },
+          {
+            "code": "0871",
+            "name": "石林",
+            "pinyin": "shilin",
+            "label": "shilin0871"
+          },
+          {
+            "code": "0595",
+            "name": "石狮",
+            "pinyin": "shishi",
+            "label": "shishi0595"
+          },
+          {
+            "code": "0566",
+            "name": "石台",
+            "pinyin": "shitai",
+            "label": "shitai0566"
+          },
+          {
+            "code": "0751",
+            "name": "始兴",
+            "pinyin": "shixing",
+            "label": "shixing0751"
+          },
+          {
+            "code": "023",
+            "name": "石柱",
+            "pinyin": "shizhu",
+            "label": "shizhu023"
+          },
+          {
+            "code": "0536",
+            "name": "寿光",
+            "pinyin": "shouguang",
+            "label": "shouguang0536"
+          },
+          {
+            "code": "0593",
+            "name": "寿宁",
+            "pinyin": "shouning",
+            "label": "shouning0593"
+          },
+          {
+            "code": "0564",
+            "name": "寿县",
+            "pinyin": "shouxian",
+            "label": "shouxian0564"
+          },
+          {
+            "code": "0451",
+            "name": "双城",
+            "pinyin": "shuangcheng",
+            "label": "shuangcheng0451"
+          },
+          {
+            "code": "028",
+            "name": "双流",
+            "pinyin": "shuangliu",
+            "label": "shuangliu028"
+          },
+          {
+            "code": "0564",
+            "name": "舒城",
+            "pinyin": "shucheng",
+            "label": "shucheng0564"
+          },
+          {
+            "code": "0423",
+            "name": "舒兰",
+            "pinyin": "shulan",
+            "label": "shulan0423"
+          },
+          {
+            "code": "0599",
+            "name": "顺昌",
+            "pinyin": "shunchang",
+            "label": "shunchang0599"
+          },
+          {
+            "code": "0527",
+            "name": "沭阳",
+            "pinyin": "shuyang",
+            "label": "shuyang0527"
+          },
+          {
+            "code": "0527",
+            "name": "泗洪",
+            "pinyin": "sihong",
+            "label": "sihong0527"
+          },
+          {
+            "code": "0758",
+            "name": "四会",
+            "pinyin": "sihui",
+            "label": "sihui0758"
+          },
+          {
+            "code": "0537",
+            "name": "泗水",
+            "pinyin": "sishui",
+            "label": "sishui0537"
+          },
+          {
+            "code": "0557",
+            "name": "泗县",
+            "pinyin": "sixian",
+            "label": "sixian0557"
+          },
+          {
+            "code": "0527",
+            "name": "泗阳",
+            "pinyin": "siyang",
+            "label": "siyang0527"
+          },
+          {
+            "code": "0871",
+            "name": "嵩明",
+            "pinyin": "songming",
+            "label": "songming0871"
+          },
+          {
+            "code": "0599",
+            "name": "松溪",
+            "pinyin": "songxi",
+            "label": "songxi0599"
+          },
+          {
+            "code": "0379",
+            "name": "嵩县",
+            "pinyin": "songxian",
+            "label": "songxian0379"
+          },
+          {
+            "code": "0578",
+            "name": "松阳",
+            "pinyin": "songyang",
+            "label": "songyang0578"
+          },
+          {
+            "code": "0578",
+            "name": "遂昌",
+            "pinyin": "suichang",
+            "label": "suichang0578"
+          },
+          {
+            "code": "0796",
+            "name": "遂川",
+            "pinyin": "suichuan",
+            "label": "suichuan0796"
+          },
+          {
+            "code": "0516",
+            "name": "睢宁",
+            "pinyin": "suining",
+            "label": "suining0516"
+          },
+          {
+            "code": "0561",
+            "name": "濉溪",
+            "pinyin": "suixi",
+            "label": "suixi0561"
+          },
+          {
+            "code": "0759",
+            "name": "遂溪",
+            "pinyin": "suixi",
+            "label": "suixi0759"
+          },
+          {
+            "code": "0556",
+            "name": "宿松",
+            "pinyin": "susong",
+            "label": "susong0556"
+          },
+          {
+            "code": "0527",
+            "name": "宿豫",
+            "pinyin": "suyu",
+            "label": "suyu0527"
+          }
+        ]
+      },
+      {
+        "initial": "t",
+        "list": [
+          {
+            "code": "0901",
+            "name": "塔城地",
+            "pinyin": "tachengdi",
+            "label": "tachengdi0901"
+          },
+          {
+            "code": "022",
+            "name": "天津",
+            "pinyin": "tianjin",
+            "label": "tianjin022"
+          },
+          {
+            "code": "0576",
+            "name": "台州",
+            "pinyin": "taizhou",
+            "label": "taizhou0576"
+          },
+          {
+            "code": "0315",
+            "name": "唐山",
+            "pinyin": "tangshan",
+            "label": "tangshan0315"
+          },
+          {
+            "code": "0538",
+            "name": "泰安",
+            "pinyin": "taian",
+            "label": "taian0538"
+          },
+          {
+            "code": "0351",
+            "name": "太原",
+            "pinyin": "taiyuan",
+            "label": "taiyuan0351"
+          },
+          {
+            "code": "0523",
+            "name": "泰州",
+            "pinyin": "taizhou",
+            "label": "taizhou0523"
+          },
+          {
+            "code": "0938",
+            "name": "天水",
+            "pinyin": "tianshui",
+            "label": "tianshui0938"
+          },
+          {
+            "code": "0410",
+            "name": "铁岭",
+            "pinyin": "tieling",
+            "label": "tieling0410"
+          },
+          {
+            "code": "0919",
+            "name": "铜川",
+            "pinyin": "tongchuan",
+            "label": "tongchuan0919"
+          },
+          {
+            "code": "0435",
+            "name": "通化",
+            "pinyin": "tonghua",
+            "label": "tonghua0435"
+          },
+          {
+            "code": "0475",
+            "name": "通辽",
+            "pinyin": "tongliao",
+            "label": "tongliao0475"
+          },
+          {
+            "code": "0562",
+            "name": "铜陵",
+            "pinyin": "tongling",
+            "label": "tongling0562"
+          },
+          {
+            "code": "0856",
+            "name": "铜仁",
+            "pinyin": "tongren",
+            "label": "tongren0856"
+          },
+          {
+            "code": "0995",
+            "name": "吐鲁番",
+            "pinyin": "tulufan",
+            "label": "tulufan0995"
+          },
+          {
+            "code": "0512",
+            "name": "太仓",
+            "pinyin": "taicang",
+            "label": "taicang0512"
+          },
+          {
+            "code": "0558",
+            "name": "太和",
+            "pinyin": "taihe",
+            "label": "taihe0558"
+          },
+          {
+            "code": "0796",
+            "name": "泰和",
+            "pinyin": "taihe",
+            "label": "taihe0796"
+          },
+          {
+            "code": "0556",
+            "name": "太湖",
+            "pinyin": "taihu",
+            "label": "taihu0556"
+          },
+          {
+            "code": "0598",
+            "name": "泰宁",
+            "pinyin": "taining",
+            "label": "taining0598"
+          },
+          {
+            "code": "0750",
+            "name": "台山",
+            "pinyin": "taishan",
+            "label": "taishan0750"
+          },
+          {
+            "code": "0577",
+            "name": "泰顺",
+            "pinyin": "taishun",
+            "label": "taishun0577"
+          },
+          {
+            "code": "0523",
+            "name": "泰兴",
+            "pinyin": "taixing",
+            "label": "taixing0523"
+          },
+          {
+            "code": "0539",
+            "name": "郯城",
+            "pinyin": "tancheng",
+            "label": "tancheng0539"
+          },
+          {
+            "code": "0315",
+            "name": "唐海",
+            "pinyin": "tanghai",
+            "label": "tanghai0315"
+          },
+          {
+            "code": "0623",
+            "name": "滕州",
+            "pinyin": "tengzhou",
+            "label": "tengzhou0623"
+          },
+          {
+            "code": "0550",
+            "name": "天长",
+            "pinyin": "tianchang",
+            "label": "tianchang0550"
+          },
+          {
+            "code": "0576",
+            "name": "天台",
+            "pinyin": "tiantai",
+            "label": "tiantai0576"
+          },
+          {
+            "code": "0556",
+            "name": "桐城",
+            "pinyin": "tongcheng",
+            "label": "tongcheng0556"
+          },
+          {
+            "code": "0795",
+            "name": "铜鼓",
+            "pinyin": "tonggu",
+            "label": "tonggu0795"
+          },
+          {
+            "code": "0451",
+            "name": "通河",
+            "pinyin": "tonghe",
+            "label": "tonghe0451"
+          },
+          {
+            "code": "023",
+            "name": "铜梁",
+            "pinyin": "tongliang",
+            "label": "tongliang023"
+          },
+          {
+            "code": "0562",
+            "name": "铜陵",
+            "pinyin": "tongling",
+            "label": "tongling0562"
+          },
+          {
+            "code": "0571",
+            "name": "桐庐",
+            "pinyin": "tonglu",
+            "label": "tonglu0571"
+          },
+          {
+            "code": "023",
+            "name": "潼南",
+            "pinyin": "tongnan",
+            "label": "tongnan023"
+          },
+          {
+            "code": "0516",
+            "name": "铜山",
+            "pinyin": "tongshan",
+            "label": "tongshan0516"
+          },
+          {
+            "code": "0573",
+            "name": "桐乡",
+            "pinyin": "tongxiang",
+            "label": "tongxiang0573"
+          },
+          {
+            "code": "0513",
+            "name": "通州",
+            "pinyin": "tongzhou",
+            "label": "tongzhou0513"
+          }
+        ]
+      },
+      {
+        "initial": "w",
+        "list": [
+          {
+            "code": "0913",
+            "name": "渭南",
+            "pinyin": "weinan",
+            "label": "weinan0913"
+          },
+          {
+            "code": "0536",
+            "name": "潍坊",
+            "pinyin": "weifang",
+            "label": "weifang0536"
+          },
+          {
+            "code": "0631",
+            "name": "威海",
+            "pinyin": "weihai",
+            "label": "weihai0631"
+          },
+          {
+            "code": "027",
+            "name": "武汉",
+            "pinyin": "wuhan",
+            "label": "wuhan027"
+          },
+          {
+            "code": "0510",
+            "name": "无锡",
+            "pinyin": "wuxi",
+            "label": "wuxi0510"
+          },
+          {
+            "code": "0876",
+            "name": "文山",
+            "pinyin": "wenshan",
+            "label": "wenshan0876"
+          },
+          {
+            "code": "0577",
+            "name": "温州",
+            "pinyin": "wenzhou",
+            "label": "wenzhou0577"
+          },
+          {
+            "code": "0473",
+            "name": "乌海",
+            "pinyin": "wuhai",
+            "label": "wuhai0473"
+          },
+          {
+            "code": "0553",
+            "name": "芜湖",
+            "pinyin": "wuhu",
+            "label": "wuhu0553"
+          },
+          {
+            "code": "0474",
+            "name": "乌兰察布",
+            "pinyin": "wulanchabu",
+            "label": "wulanchabu0474"
+          },
+          {
+            "code": "0991",
+            "name": "乌鲁木齐",
+            "pinyin": "wulumuqi",
+            "label": "wulumuqi0991"
+          },
+          {
+            "code": "0935",
+            "name": "武威",
+            "pinyin": "wuwei",
+            "label": "wuwei0935"
+          },
+          {
+            "code": "0953",
+            "name": "吴忠",
+            "pinyin": "wuzhong",
+            "label": "wuzhong0953"
+          },
+          {
+            "code": "0774",
+            "name": "梧州",
+            "pinyin": "wuzhou",
+            "label": "wuzhou0774"
+          },
+          {
+            "code": "0411",
+            "name": "瓦房店",
+            "pinyin": "wafangdian",
+            "label": "wafangdian0411"
+          },
+          {
+            "code": "0796",
+            "name": "万安",
+            "pinyin": "wanan",
+            "label": "wanan0796"
+          },
+          {
+            "code": "0731",
+            "name": "望城",
+            "pinyin": "wangcheng",
+            "label": "wangcheng0731"
+          },
+          {
+            "code": "0556",
+            "name": "望江",
+            "pinyin": "wangjiang",
+            "label": "wangjiang0556"
+          },
+          {
+            "code": "0793",
+            "name": "万年",
+            "pinyin": "wannian",
+            "label": "wannian0793"
+          },
+          {
+            "code": "0795",
+            "name": "万载",
+            "pinyin": "wanzai",
+            "label": "wanzai0795"
+          },
+          {
+            "code": "0537",
+            "name": "微山",
+            "pinyin": "weishan",
+            "label": "weishan0537"
+          },
+          {
+            "code": "0577",
+            "name": "文成",
+            "pinyin": "wencheng",
+            "label": "wencheng0577"
+          },
+          {
+            "code": "0631",
+            "name": "文登",
+            "pinyin": "wendeng",
+            "label": "wendeng0631"
+          },
+          {
+            "code": "0751",
+            "name": "翁源",
+            "pinyin": "wengyuan",
+            "label": "wengyuan0751"
+          },
+          {
+            "code": "0576",
+            "name": "温岭",
+            "pinyin": "wenling",
+            "label": "wenling0576"
+          },
+          {
+            "code": "0537",
+            "name": "汶上",
+            "pinyin": "wenshang",
+            "label": "wenshang0537"
+          },
+          {
+            "code": "0391",
+            "name": "温县",
+            "pinyin": "wenxian",
+            "label": "wenxian0391"
+          },
+          {
+            "code": "0558",
+            "name": "涡阳",
+            "pinyin": "woyang",
+            "label": "woyang0558"
+          },
+          {
+            "code": "0451",
+            "name": "五常",
+            "pinyin": "wuchang",
+            "label": "wuchang0451"
+          },
+          {
+            "code": "0534",
+            "name": "武城",
+            "pinyin": "wucheng",
+            "label": "wucheng0534"
+          },
+          {
+            "code": "0759",
+            "name": "吴川",
+            "pinyin": "wuchuan",
+            "label": "wuchuan0759"
+          },
+          {
+            "code": "0543",
+            "name": "无棣",
+            "pinyin": "wudi",
+            "label": "wudi0543"
+          },
+          {
+            "code": "0552",
+            "name": "五河",
+            "pinyin": "wuhe",
+            "label": "wuhe0552"
+          },
+          {
+            "code": "0553",
+            "name": "芜湖",
+            "pinyin": "wuhu",
+            "label": "wuhu0553"
+          },
+          {
+            "code": "0753",
+            "name": "五华",
+            "pinyin": "wuhua",
+            "label": "wuhua0753"
+          },
+          {
+            "code": "0311",
+            "name": "无极",
+            "pinyin": "wuji",
+            "label": "wuji0311"
+          },
+          {
+            "code": "0512",
+            "name": "吴江",
+            "pinyin": "wujiang",
+            "label": "wujiang0512"
+          },
+          {
+            "code": "0633",
+            "name": "五莲",
+            "pinyin": "wulian",
+            "label": "wulian0633"
+          },
+          {
+            "code": "023",
+            "name": "武隆",
+            "pinyin": "wulong",
+            "label": "wulong023"
+          },
+          {
+            "code": "0771",
+            "name": "武鸣",
+            "pinyin": "wuming",
+            "label": "wuming0771"
+          },
+          {
+            "code": "0792",
+            "name": "武宁",
+            "pinyin": "wuning",
+            "label": "wuning0792"
+          },
+          {
+            "code": "0597",
+            "name": "武平",
+            "pinyin": "wuping",
+            "label": "wuping0597"
+          },
+          {
+            "code": "023",
+            "name": "巫山",
+            "pinyin": "wushan",
+            "label": "wushan023"
+          },
+          {
+            "code": "0565",
+            "name": "无为",
+            "pinyin": "wuwei",
+            "label": "wuwei0565"
+          },
+          {
+            "code": "023",
+            "name": "巫溪",
+            "pinyin": "wuxi",
+            "label": "wuxi023"
+          },
+          {
+            "code": "0579",
+            "name": "武义",
+            "pinyin": "wuyi",
+            "label": "wuyi0579"
+          },
+          {
+            "code": "0599",
+            "name": "武夷山",
+            "pinyin": "wuyishan",
+            "label": "wuyishan0599"
+          },
+          {
+            "code": "0793",
+            "name": "婺源",
+            "pinyin": "wuyuan",
+            "label": "wuyuan0793"
+          },
+          {
+            "code": "0391",
+            "name": "武陟",
+            "pinyin": "wuzhi",
+            "label": "wuzhi0391"
+          }
+        ]
+      },
+      {
+        "initial": "x",
+        "list": [
+          {
+            "code": "0710",
+            "name": "襄樊",
+            "pinyin": "xiangfan",
+            "label": "xiangfan0710"
+          },
+          {
+            "code": "0592",
+            "name": "厦门",
+            "pinyin": "xiamen",
+            "label": "xiamen0592"
+          },
+          {
+            "code": "029",
+            "name": "西安",
+            "pinyin": "xian",
+            "label": "xian029"
+          },
+          {
+            "code": "0374",
+            "name": "许昌",
+            "pinyin": "xuchang",
+            "label": "xuchang0374"
+          },
+          {
+            "code": "0516",
+            "name": "徐州",
+            "pinyin": "xuzhou",
+            "label": "xuzhou0516"
+          },
+          {
+            "code": "0732",
+            "name": "湘潭",
+            "pinyin": "xiangtan",
+            "label": "xiangtan0732"
+          },
+          {
+            "code": "0743",
+            "name": "湘西",
+            "pinyin": "xiangxi",
+            "label": "xiangxi0743"
+          },
+          {
+            "code": "0715",
+            "name": "咸宁",
+            "pinyin": "xianning",
+            "label": "xianning0715"
+          },
+          {
+            "code": "029",
+            "name": "咸阳",
+            "pinyin": "xianyang",
+            "label": "xianyang029"
+          },
+          {
+            "code": "0712",
+            "name": "孝感",
+            "pinyin": "xiaogan",
+            "label": "xiaogan0712"
+          },
+          {
+            "code": "0479",
+            "name": "锡林郭勒盟",
+            "pinyin": "xilinguolemeng",
+            "label": "xilinguolemeng0479"
+          },
+          {
+            "code": "0482",
+            "name": "兴安盟",
+            "pinyin": "xinganmeng",
+            "label": "xinganmeng0482"
+          },
+          {
+            "code": "0319",
+            "name": "邢台",
+            "pinyin": "xingtai",
+            "label": "xingtai0319"
+          },
+          {
+            "code": "0971",
+            "name": "西宁",
+            "pinyin": "xining",
+            "label": "xining0971"
+          },
+          {
+            "code": "0373",
+            "name": "新乡",
+            "pinyin": "xinxiang",
+            "label": "xinxiang0373"
+          },
+          {
+            "code": "0376",
+            "name": "信阳",
+            "pinyin": "xinyang",
+            "label": "xinyang0376"
+          },
+          {
+            "code": "0790",
+            "name": "新余",
+            "pinyin": "xinyu",
+            "label": "xinyu0790"
+          },
+          {
+            "code": "0350",
+            "name": "忻州",
+            "pinyin": "xinzhou",
+            "label": "xinzhou0350"
+          },
+          {
+            "code": "0691",
+            "name": "西双版纳",
+            "pinyin": "xishuangbanna",
+            "label": "xishuangbanna0691"
+          },
+          {
+            "code": "0563",
+            "name": "宣城",
+            "pinyin": "xuancheng",
+            "label": "xuancheng0563"
+          },
+          {
+            "code": "0796",
+            "name": "峡江",
+            "pinyin": "xiajiang",
+            "label": "xiajiang0796"
+          },
+          {
+            "code": "0534",
+            "name": "夏津",
+            "pinyin": "xiajin",
+            "label": "xiajin0534"
+          },
+          {
+            "code": "0574",
+            "name": "象山",
+            "pinyin": "xiangshan",
+            "label": "xiangshan0574"
+          },
+          {
+            "code": "0515",
+            "name": "响水",
+            "pinyin": "xiangshui",
+            "label": "xiangshui0515"
+          },
+          {
+            "code": "0576",
+            "name": "仙居",
+            "pinyin": "xianju",
+            "label": "xianju0576"
+          },
+          {
+            "code": "0594",
+            "name": "仙游",
+            "pinyin": "xianyou",
+            "label": "xianyou0594"
+          },
+          {
+            "code": "0557",
+            "name": "萧县",
+            "pinyin": "xiaoxian",
+            "label": "xiaoxian0557"
+          },
+          {
+            "code": "0593",
+            "name": "霞浦",
+            "pinyin": "xiapu",
+            "label": "xiapu0593"
+          },
+          {
+            "code": "0851",
+            "name": "息烽",
+            "pinyin": "xifeng",
+            "label": "xifeng0851"
+          },
+          {
+            "code": "0379",
+            "name": "新安",
+            "pinyin": "xinan",
+            "label": "xinan0379"
+          },
+          {
+            "code": "0575",
+            "name": "新昌",
+            "pinyin": "xinchang",
+            "label": "xinchang0575"
+          },
+          {
+            "code": "0797",
+            "name": "信丰",
+            "pinyin": "xinfeng",
+            "label": "xinfeng0797"
+          },
+          {
+            "code": "0751",
+            "name": "新丰",
+            "pinyin": "xinfeng",
+            "label": "xinfeng0751"
+          },
+          {
+            "code": "0796",
+            "name": "新干",
+            "pinyin": "xingan",
+            "label": "xingan0796"
+          },
+          {
+            "code": "0797",
+            "name": "兴国",
+            "pinyin": "xingguo",
+            "label": "xingguo0797"
+          },
+          {
+            "code": "0523",
+            "name": "兴化",
+            "pinyin": "xinghua",
+            "label": "xinghua0523"
+          },
+          {
+            "code": "0753",
+            "name": "兴宁",
+            "pinyin": "xingning",
+            "label": "xingning0753"
+          },
+          {
+            "code": "0311",
+            "name": "行唐",
+            "pinyin": "xingtang",
+            "label": "xingtang0311"
+          },
+          {
+            "code": "0371",
+            "name": "荥阳",
+            "pinyin": "xingyang",
+            "label": "xingyang0371"
+          },
+          {
+            "code": "0792",
+            "name": "星子",
+            "pinyin": "xingzi",
+            "label": "xingzi0792"
+          },
+          {
+            "code": "0311",
+            "name": "辛集",
+            "pinyin": "xinji",
+            "label": "xinji0311"
+          },
+          {
+            "code": "0791",
+            "name": "新建",
+            "pinyin": "xinjian",
+            "label": "xinjian0791"
+          },
+          {
+            "code": "028",
+            "name": "新津",
+            "pinyin": "xinjin",
+            "label": "xinjin028"
+          },
+          {
+            "code": "0311",
+            "name": "新乐",
+            "pinyin": "xinle",
+            "label": "xinle0311"
+          },
+          {
+            "code": "024",
+            "name": "新民",
+            "pinyin": "xinmin",
+            "label": "xinmin024"
+          },
+          {
+            "code": "0371",
+            "name": "新密",
+            "pinyin": "xinmi",
+            "label": "xinmi0371"
+          },
+          {
+            "code": "0538",
+            "name": "新泰",
+            "pinyin": "xintai",
+            "label": "xintai0538"
+          },
+          {
+            "code": "0766",
+            "name": "新兴",
+            "pinyin": "xinxing",
+            "label": "xinxing0766"
+          },
+          {
+            "code": "0516",
+            "name": "新沂",
+            "pinyin": "xinyi",
+            "label": "xinyi0516"
+          },
+          {
+            "code": "0668",
+            "name": "信宜",
+            "pinyin": "xinyi",
+            "label": "xinyi0668"
+          },
+          {
+            "code": "0371",
+            "name": "新郑",
+            "pinyin": "xinzheng",
+            "label": "xinzheng0371"
+          },
+          {
+            "code": "0559",
+            "name": "休宁",
+            "pinyin": "xiuning",
+            "label": "xiuning0559"
+          },
+          {
+            "code": "023",
+            "name": "秀山",
+            "pinyin": "xiushan",
+            "label": "xiushan023"
+          },
+          {
+            "code": "0792",
+            "name": "修水",
+            "pinyin": "xiushui",
+            "label": "xiushui0792"
+          },
+          {
+            "code": "0851",
+            "name": "修文",
+            "pinyin": "xiuwen",
+            "label": "xiuwen0851"
+          },
+          {
+            "code": "0391",
+            "name": "修武",
+            "pinyin": "xiuwu",
+            "label": "xiuwu0391"
+          },
+          {
+            "code": "0871",
+            "name": "寻甸",
+            "pinyin": "xundian",
+            "label": "xundian0871"
+          },
+          {
+            "code": "0797",
+            "name": "寻乌",
+            "pinyin": "xunwu",
+            "label": "xunwu0797"
+          },
+          {
+            "code": "0759",
+            "name": "徐闻",
+            "pinyin": "xuwen",
+            "label": "xuwen0759"
+          },
+          {
+            "code": "0517",
+            "name": "盱眙",
+            "pinyin": "xuyi",
+            "label": "xuyi0517"
+          }
+        ]
+      },
+      {
+        "initial": "y",
+        "list": [
+          {
+            "code": "0835",
+            "name": "雅安",
+            "pinyin": "yaan",
+            "label": "yaan0835"
+          },
+          {
+            "code": "0514",
+            "name": "扬州",
+            "pinyin": "yangzhou",
+            "label": "yangzhou0514"
+          },
+          {
+            "code": "0535",
+            "name": "烟台",
+            "pinyin": "yantai",
+            "label": "yantai0535"
+          },
+          {
+            "code": "0911",
+            "name": "延安",
+            "pinyin": "yanan",
+            "label": "yanan0911"
+          },
+          {
+            "code": "0433",
+            "name": "延边",
+            "pinyin": "yanbian",
+            "label": "yanbian0433"
+          },
+          {
+            "code": "0515",
+            "name": "盐城",
+            "pinyin": "yancheng",
+            "label": "yancheng0515"
+          },
+          {
+            "code": "0662",
+            "name": "阳江",
+            "pinyin": "yangjiang",
+            "label": "yangjiang0662"
+          },
+          {
+            "code": "0353",
+            "name": "阳泉",
+            "pinyin": "yangquan",
+            "label": "yangquan0353"
+          },
+          {
+            "code": "0831",
+            "name": "宜宾",
+            "pinyin": "yibin",
+            "label": "yibin0831"
+          },
+          {
+            "code": "0717",
+            "name": "宜昌",
+            "pinyin": "yichang",
+            "label": "yichang0717"
+          },
+          {
+            "code": "0458",
+            "name": "伊春",
+            "pinyin": "yichun",
+            "label": "yichun0458"
+          },
+          {
+            "code": "0795",
+            "name": "宜春",
+            "pinyin": "yichun",
+            "label": "yichun0795"
+          },
+          {
+            "code": "0999",
+            "name": "伊犁哈萨克",
+            "pinyin": "yilihasake",
+            "label": "yilihasake0999"
+          },
+          {
+            "code": "0951",
+            "name": "银川",
+            "pinyin": "yinchuan",
+            "label": "yinchuan0951"
+          },
+          {
+            "code": "0417",
+            "name": "营口",
+            "pinyin": "yingkou",
+            "label": "yingkou0417"
+          },
+          {
+            "code": "0701",
+            "name": "鹰潭",
+            "pinyin": "yingtan",
+            "label": "yingtan0701"
+          },
+          {
+            "code": "0737",
+            "name": "益阳",
+            "pinyin": "yiyang",
+            "label": "yiyang0737"
+          },
+          {
+            "code": "0746",
+            "name": "永州",
+            "pinyin": "yongzhou",
+            "label": "yongzhou0746"
+          },
+          {
+            "code": "0730",
+            "name": "岳阳",
+            "pinyin": "yueyang",
+            "label": "yueyang0730"
+          },
+          {
+            "code": "0775",
+            "name": "玉林",
+            "pinyin": "yulin",
+            "label": "yulin0775"
+          },
+          {
+            "code": "0912",
+            "name": "榆林",
+            "pinyin": "yulin",
+            "label": "yulin0912"
+          },
+          {
+            "code": "0359",
+            "name": "运城",
+            "pinyin": "yuncheng",
+            "label": "yuncheng0359"
+          },
+          {
+            "code": "0766",
+            "name": "云浮",
+            "pinyin": "yunfu",
+            "label": "yunfu0766"
+          },
+          {
+            "code": "0976",
+            "name": "玉树",
+            "pinyin": "yushu",
+            "label": "yushu0976"
+          },
+          {
+            "code": "0877",
+            "name": "玉溪",
+            "pinyin": "yuxi",
+            "label": "yuxi0877"
+          },
+          {
+            "code": "0662",
+            "name": "阳春",
+            "pinyin": "yangchun",
+            "label": "yangchun0662"
+          },
+          {
+            "code": "0662",
+            "name": "阳东",
+            "pinyin": "yangdong",
+            "label": "yangdong0662"
+          },
+          {
+            "code": "0635",
+            "name": "阳谷",
+            "pinyin": "yanggu",
+            "label": "yanggu0635"
+          },
+          {
+            "code": "0763",
+            "name": "阳山",
+            "pinyin": "yangshan",
+            "label": "yangshan0763"
+          },
+          {
+            "code": "0543",
+            "name": "阳信",
+            "pinyin": "yangxin",
+            "label": "yangxin0543"
+          },
+          {
+            "code": "0662",
+            "name": "阳西",
+            "pinyin": "yangxi",
+            "label": "yangxi0662"
+          },
+          {
+            "code": "0511",
+            "name": "扬中",
+            "pinyin": "yangzhong",
+            "label": "yangzhong0511"
+          },
+          {
+            "code": "0379",
+            "name": "偃师",
+            "pinyin": "yanshi",
+            "label": "yanshi0379"
+          },
+          {
+            "code": "0451",
+            "name": "延寿",
+            "pinyin": "yanshou",
+            "label": "yanshou0451"
+          },
+          {
+            "code": "0537",
+            "name": "兖州",
+            "pinyin": "yanzhou",
+            "label": "yanzhou0537"
+          },
+          {
+            "code": "0379",
+            "name": "伊川",
+            "pinyin": "yichuan",
+            "label": "yichuan0379"
+          },
+          {
+            "code": "0795",
+            "name": "宜丰",
+            "pinyin": "yifeng",
+            "label": "yifeng0795"
+          },
+          {
+            "code": "0794",
+            "name": "宜黄",
+            "pinyin": "yihuang",
+            "label": "yihuang0794"
+          },
+          {
+            "code": "0451",
+            "name": "依兰",
+            "pinyin": "yilan",
+            "label": "yilan0451"
+          },
+          {
+            "code": "0871",
+            "name": "宜良",
+            "pinyin": "yiliang",
+            "label": "yiliang0871"
+          },
+          {
+            "code": "0539",
+            "name": "沂南",
+            "pinyin": "yinan",
+            "label": "yinan0539"
+          },
+          {
+            "code": "0763",
+            "name": "英德",
+            "pinyin": "yingde",
+            "label": "yingde0763"
+          },
+          {
+            "code": "0558",
+            "name": "颍上",
+            "pinyin": "yingshang",
+            "label": "yingshang0558"
+          },
+          {
+            "code": "0539",
+            "name": "沂水",
+            "pinyin": "yishui",
+            "label": "yishui0539"
+          },
+          {
+            "code": "0579",
+            "name": "义乌",
+            "pinyin": "yiwu",
+            "label": "yiwu0579"
+          },
+          {
+            "code": "0559",
+            "name": "黟县",
+            "pinyin": "yixian",
+            "label": "yixian0559"
+          },
+          {
+            "code": "0510",
+            "name": "宜兴",
+            "pinyin": "yixing",
+            "label": "yixing0510"
+          },
+          {
+            "code": "0793",
+            "name": "弋阳",
+            "pinyin": "yiyang",
+            "label": "yiyang0793"
+          },
+          {
+            "code": "0379",
+            "name": "宜阳",
+            "pinyin": "yiyang",
+            "label": "yiyang0379"
+          },
+          {
+            "code": "0533",
+            "name": "沂源",
+            "pinyin": "yiyuan",
+            "label": "yiyuan0533"
+          },
+          {
+            "code": "0514",
+            "name": "仪征",
+            "pinyin": "yizheng",
+            "label": "yizheng0514"
+          },
+          {
+            "code": "0598",
+            "name": "永安",
+            "pinyin": "yongan",
+            "label": "yongan0598"
+          },
+          {
+            "code": "023",
+            "name": "永川",
+            "pinyin": "yongchuan",
+            "label": "yongchuan023"
+          },
+          {
+            "code": "0595",
+            "name": "永春",
+            "pinyin": "yongchun",
+            "label": "yongchun0595"
+          },
+          {
+            "code": "0931",
+            "name": "永登",
+            "pinyin": "yongdeng",
+            "label": "yongdeng0931"
+          },
+          {
+            "code": "0597",
+            "name": "永定",
+            "pinyin": "yongding",
+            "label": "yongding0597"
+          },
+          {
+            "code": "0796",
+            "name": "永丰",
+            "pinyin": "yongfeng",
+            "label": "yongfeng0796"
+          },
+          {
+            "code": "0423",
+            "name": "永吉",
+            "pinyin": "yongji",
+            "label": "yongji0423"
+          },
+          {
+            "code": "0577",
+            "name": "永嘉",
+            "pinyin": "yongjia",
+            "label": "yongjia0577"
+          },
+          {
+            "code": "0579",
+            "name": "永康",
+            "pinyin": "yongkang",
+            "label": "yongkang0579"
+          },
+          {
+            "code": "0771",
+            "name": "邕宁",
+            "pinyin": "yongning",
+            "label": "yongning0771"
+          },
+          {
+            "code": "0591",
+            "name": "永泰",
+            "pinyin": "yongtai",
+            "label": "yongtai0591"
+          },
+          {
+            "code": "0796",
+            "name": "永新",
+            "pinyin": "yongxin",
+            "label": "yongxin0796"
+          },
+          {
+            "code": "0792",
+            "name": "永修",
+            "pinyin": "yongxiu",
+            "label": "yongxiu0792"
+          },
+          {
+            "code": "0598",
+            "name": "尤溪",
+            "pinyin": "youxi",
+            "label": "youxi0598"
+          },
+          {
+            "code": "023",
+            "name": "酉阳",
+            "pinyin": "youyang",
+            "label": "youyang023"
+          },
+          {
+            "code": "0311",
+            "name": "元氏",
+            "pinyin": "yuanshi",
+            "label": "yuanshi0311"
+          },
+          {
+            "code": "0534",
+            "name": "禹城",
+            "pinyin": "yucheng",
+            "label": "yucheng0534"
+          },
+          {
+            "code": "0797",
+            "name": "于都",
+            "pinyin": "yudu",
+            "label": "yudu0797"
+          },
+          {
+            "code": "0556",
+            "name": "岳西",
+            "pinyin": "yuexi",
+            "label": "yuexi0556"
+          },
+          {
+            "code": "0793",
+            "name": "余干",
+            "pinyin": "yugan",
+            "label": "yugan0793"
+          },
+          {
+            "code": "0576",
+            "name": "玉环",
+            "pinyin": "yuhuan",
+            "label": "yuhuan0576"
+          },
+          {
+            "code": "0701",
+            "name": "余江",
+            "pinyin": "yujiang",
+            "label": "yujiang0701"
+          },
+          {
+            "code": "0766",
+            "name": "郁南",
+            "pinyin": "yunan",
+            "label": "yunan0766"
+          },
+          {
+            "code": "0766",
+            "name": "云安",
+            "pinyin": "yunan",
+            "label": "yunan0766"
+          },
+          {
+            "code": "0530",
+            "name": "郓城",
+            "pinyin": "yuncheng",
+            "label": "yuncheng0530"
+          },
+          {
+            "code": "0578",
+            "name": "云和",
+            "pinyin": "yunhe",
+            "label": "yunhe0578"
+          },
+          {
+            "code": "0596",
+            "name": "云霄",
+            "pinyin": "yunxiao",
+            "label": "yunxiao0596"
+          },
+          {
+            "code": "023",
+            "name": "云阳",
+            "pinyin": "yunyang",
+            "label": "yunyang023"
+          },
+          {
+            "code": "0793",
+            "name": "玉山",
+            "pinyin": "yushan",
+            "label": "yushan0793"
+          },
+          {
+            "code": "0431",
+            "name": "榆树",
+            "pinyin": "yushu",
+            "label": "yushu0431"
+          },
+          {
+            "code": "0537",
+            "name": "鱼台",
+            "pinyin": "yutai",
+            "label": "yutai0537"
+          },
+          {
+            "code": "0315",
+            "name": "玉田",
+            "pinyin": "yutian",
+            "label": "yutian0315"
+          },
+          {
+            "code": "0574",
+            "name": "余姚",
+            "pinyin": "yuyao",
+            "label": "yuyao0574"
+          },
+          {
+            "code": "0931",
+            "name": "榆中",
+            "pinyin": "yuzhong",
+            "label": "yuzhong0931"
+          }
+        ]
+      },
+      {
+        "initial": "z",
+        "list": [
+          {
+            "code": "0596",
+            "name": "漳州",
+            "pinyin": "zhangzhou",
+            "label": "zhangzhou0596"
+          },
+          {
+            "code": "0371",
+            "name": "郑州",
+            "pinyin": "zhengzhou",
+            "label": "zhengzhou0371"
+          },
+          {
+            "code": "0760",
+            "name": "中山",
+            "pinyin": "zhongshan",
+            "label": "zhongshan0760"
+          },
+          {
+            "code": "0756",
+            "name": "珠海",
+            "pinyin": "zhuhai",
+            "label": "zhuhai0756"
+          },
+          {
+            "code": "0623",
+            "name": "枣庄",
+            "pinyin": "zaozhuang",
+            "label": "zaozhuang0623"
+          },
+          {
+            "code": "0744",
+            "name": "张家界",
+            "pinyin": "zhangjiajie",
+            "label": "zhangjiajie0744"
+          },
+          {
+            "code": "0313",
+            "name": "张家口",
+            "pinyin": "zhangjiakou",
+            "label": "zhangjiakou0313"
+          },
+          {
+            "code": "0936",
+            "name": "张掖",
+            "pinyin": "zhangye",
+            "label": "zhangye0936"
+          },
+          {
+            "code": "0759",
+            "name": "湛江",
+            "pinyin": "zhanjiang",
+            "label": "zhanjiang0759"
+          },
+          {
+            "code": "0758",
+            "name": "肇庆",
+            "pinyin": "zhaoqing",
+            "label": "zhaoqing0758"
+          },
+          {
+            "code": "0870",
+            "name": "昭通",
+            "pinyin": "zhaotong",
+            "label": "zhaotong0870"
+          },
+          {
+            "code": "0511",
+            "name": "镇江",
+            "pinyin": "zhenjiang",
+            "label": "zhenjiang0511"
+          },
+          {
+            "code": "0955",
+            "name": "中卫",
+            "pinyin": "zhongwei",
+            "label": "zhongwei0955"
+          },
+          {
+            "code": "0394",
+            "name": "周口",
+            "pinyin": "zhoukou",
+            "label": "zhoukou0394"
+          },
+          {
+            "code": "0580",
+            "name": "舟山",
+            "pinyin": "zhoushan",
+            "label": "zhoushan0580"
+          },
+          {
+            "code": "0396",
+            "name": "驻马店",
+            "pinyin": "zhumadian",
+            "label": "zhumadian0396"
+          },
+          {
+            "code": "0731",
+            "name": "株洲",
+            "pinyin": "zhuzhou",
+            "label": "zhuzhou0731"
+          },
+          {
+            "code": "0533",
+            "name": "淄博",
+            "pinyin": "zibo",
+            "label": "zibo0533"
+          },
+          {
+            "code": "0813",
+            "name": "自贡",
+            "pinyin": "zigong",
+            "label": "zigong0813"
+          },
+          {
+            "code": "028",
+            "name": "资阳",
+            "pinyin": "ziyang",
+            "label": "ziyang028"
+          },
+          {
+            "code": "0852",
+            "name": "遵义",
+            "pinyin": "zunyi",
+            "label": "zunyi0852"
+          },
+          {
+            "code": "0311",
+            "name": "赞皇",
+            "pinyin": "zanhuang",
+            "label": "zanhuang0311"
+          },
+          {
+            "code": "020",
+            "name": "增城",
+            "pinyin": "zengcheng",
+            "label": "zengcheng020"
+          },
+          {
+            "code": "0512",
+            "name": "张家港",
+            "pinyin": "zhangjiagang",
+            "label": "zhangjiagang0512"
+          },
+          {
+            "code": "0597",
+            "name": "漳平",
+            "pinyin": "zhangping",
+            "label": "zhangping0597"
+          },
+          {
+            "code": "0596",
+            "name": "漳浦",
+            "pinyin": "zhangpu",
+            "label": "zhangpu0596"
+          },
+          {
+            "code": "0531",
+            "name": "章丘",
+            "pinyin": "zhangqiu",
+            "label": "zhangqiu0531"
+          },
+          {
+            "code": "0795",
+            "name": "樟树",
+            "pinyin": "zhangshu",
+            "label": "zhangshu0795"
+          },
+          {
+            "code": "0543",
+            "name": "沾化",
+            "pinyin": "zhanhua",
+            "label": "zhanhua0543"
+          },
+          {
+            "code": "0311",
+            "name": "赵县",
+            "pinyin": "zhaoxian",
+            "label": "zhaoxian0311"
+          },
+          {
+            "code": "0535",
+            "name": "招远",
+            "pinyin": "zhaoyuan",
+            "label": "zhaoyuan0535"
+          },
+          {
+            "code": "0311",
+            "name": "正定",
+            "pinyin": "zhengding",
+            "label": "zhengding0311"
+          },
+          {
+            "code": "0599",
+            "name": "政和",
+            "pinyin": "zhenghe",
+            "label": "zhenghe0599"
+          },
+          {
+            "code": "0593",
+            "name": "柘荣",
+            "pinyin": "zherong",
+            "label": "zherong0593"
+          },
+          {
+            "code": "0371",
+            "name": "中牟",
+            "pinyin": "zhongmou",
+            "label": "zhongmou0371"
+          },
+          {
+            "code": "023",
+            "name": "忠县",
+            "pinyin": "zhongxian",
+            "label": "zhongxian023"
+          },
+          {
+            "code": "0593",
+            "name": "周宁",
+            "pinyin": "zhouning",
+            "label": "zhouning0593"
+          },
+          {
+            "code": "029",
+            "name": "周至",
+            "pinyin": "zhouzhi",
+            "label": "zhouzhi029"
+          },
+          {
+            "code": "0411",
+            "name": "庄河",
+            "pinyin": "zhuanghe",
+            "label": "zhuanghe0411"
+          },
+          {
+            "code": "0536",
+            "name": "诸城",
+            "pinyin": "zhucheng",
+            "label": "zhucheng0536"
+          },
+          {
+            "code": "0575",
+            "name": "诸暨",
+            "pinyin": "zhuji",
+            "label": "zhuji0575"
+          },
+          {
+            "code": "0762",
+            "name": "紫金",
+            "pinyin": "zijin",
+            "label": "zijin0762"
+          },
+          {
+            "code": "0794",
+            "name": "资溪",
+            "pinyin": "zixi",
+            "label": "zixi0794"
+          },
+          {
+            "code": "0537",
+            "name": "邹城",
+            "pinyin": "zoucheng",
+            "label": "zoucheng0537"
+          },
+          {
+            "code": "0543",
+            "name": "邹平",
+            "pinyin": "zouping",
+            "label": "zouping0543"
+          },
+          {
+            "code": "0315",
+            "name": "遵化",
+            "pinyin": "zunhua",
+            "label": "zunhua0315"
+          }
+        ]
+      }
+    ]
+  }
+}
+
