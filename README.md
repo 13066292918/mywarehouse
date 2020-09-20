@@ -31,7 +31,7 @@ home组件接受数据,并把数据传输到各个子页面中,推动视图的�
   </div>   
 </template>   
 
-<script>  
+ 
 import HomeHeader from "./base/Header";  
 import HomeNav from "./base/Nav";  
 import HomeFavourite from "./base/favourite";  
