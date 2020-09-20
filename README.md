@@ -105,12 +105,12 @@ fiLterCity(){//输入拼音或名字的时候筛选,并把结果数组返回
 
 
 点击详情页的时候,跳转到详情页,并通过swiper插件,点击图片的时候,弹出轮播图
-/*<swiper :options="swiperOptions">  
-        <swiper-slide v-for="(imgs,index) in gallaryimgs" :key="index">  
-          <img class="swiper-img" :src="imgs" style="height: 100%">  
-        </swiper-slide>  
-        <div class="swiper-pagination" slot="pagination"></div>  
-    </swiper>  */  
+<swiper :options="swiperOptions">  
+  <swiper-slide v-for="(imgs,index) in gallaryimgs" :key="index">  
+    <img class="swiper-img" :src="imgs" style="height: 100%">  
+  </swiper-slide>  
+  <div class="swiper-pagination" slot="pagination"></div>  
+</swiper>
     
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/013.png)
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/014.png)
