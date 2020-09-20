@@ -66,8 +66,8 @@ export default {
 }  
 
 
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/001.png)
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/002.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/009.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/010.png)
 
 
 
@@ -85,8 +85,8 @@ fiLterCity(){//输入拼音或名字的时候筛选,并把结果数组返回
       return result  
     }  
     
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/003.png)
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/004.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/011.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/012.png)
 
 
 
@@ -98,6 +98,6 @@ fiLterCity(){//输入拼音或名字的时候筛选,并把结果数组返回
         <div class="swiper-pagination" slot="pagination"></div>  
     </swiper>  
     
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/005.png)
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/006.png)
-![image](https://github.com/13066292918/mywarehouse/blob/master/vue-%E4%BB%BF%E5%8E%BB%E5%93%AA%E7%BD%91/heaven/desc/007.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/013.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/014.png)
+![image](https://github.com/13066292918/applet-news/blob/master/describe/015.png)
