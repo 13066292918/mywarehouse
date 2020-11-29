@@ -2,7 +2,7 @@ vue仿造去哪网移动端页面
 
 主要的数据是放在文件夹里面的,所以这里axios读取文件里的内容,进行传输
 
-
+```JavaScript
 import axios from 'axios'  
 
 axios.interceptors.response.use(function (response){  
@@ -20,7 +20,7 @@ export let getCity=()=>{
 export let getDetail=(id)=>{  
   return axios.get('/static/mork/detail/'+id+'.json')  
 }  
-
+```
 
 
 
@@ -28,7 +28,7 @@ export let getDetail=(id)=>{
 
 home组件接受数据,并把数据传输到各个子页面中,推动视图的变化  
 
-
+```JavaScript
 <template>  
   <div>  
     <home-header></home-header>  
@@ -71,7 +71,7 @@ export default {
     }  
   }  
 }  
-
+```
 
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/009.png)
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/010.png)
@@ -83,7 +83,7 @@ export default {
 
 
 点击右上角的位置,会弹出选择城市的界面,并且可以输入拼音,识别城市
-
+```JavaScript
 fiLterCity(){//输入拼音或名字的时候筛选,并把结果数组返回
       let result = []  
       for(let i in this.cities){  
@@ -95,7 +95,7 @@ fiLterCity(){//输入拼音或名字的时候筛选,并把结果数组返回
       }  
       return result  
     }  
-    
+```    
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/011.png)
 ![image](https://github.com/13066292918/applet-news/blob/master/describe/012.png)
 
